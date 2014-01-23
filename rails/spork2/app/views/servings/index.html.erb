@@ -1,0 +1,44 @@
+<script type='text/javascript' src='serving.js'></script>
+
+<h1>Listing servings</h1>
+
+
+<%= form_tag servings_path, :method => 'get' do %>
+	<p>
+		<%= text_field_tag :servsearch, params[:servsearch] %>
+		<%= submit_tag "Search", :name => nil %>
+	</p>
+<% end %>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<%#= form_tag({:action => 'preview'}, :remote => true, :'data-update-target' => 'previewdiv') do %>
+	<select name="foodselect" multiple size="30" multiple class="scrollmenu">
+		<% @servings.each do |serving| %>
+			<option> <%= serving.name %>
+<!--  <tr>
+    <td><%#= link_to serving.name + " (100g)", serving %></td>
+    <td><%#=# link_to 'Edit', edit_serving_path(serving) %></td>
+	 <td><%#=# link_to 'Destroy', serving, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+-->
+		<% end %>
+	<%#= submit_tag 'Info', :disable_with => 'Please Wait...' %>
+<%# end %>
+</table>
+
+<br />
+
+<div id="previewdiv">
+
+</div>
+
+<%= link_to 'New Serving', new_serving_path %>
+
+
+

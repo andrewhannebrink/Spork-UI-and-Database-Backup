@@ -1,0 +1,108 @@
+Andrew Hannebrink
+Nutrition project outline
+
+####################
+## USER INTERFACE ##
+####################
+For ease of access, every main button is visible from every location in the website. Each button modifies the content in the middle of the page.
+The user interface contains these buttons and options:
+	-sign in button. Upon clicking this button, the user is asked their username and password. If they do not have an account, they have an option to go to the SIGN UP SCREEN. If they do not remember their password, they can also have their password sent to their email.
+	-Once signed in, the user can view their personal acccount. (see ACCOUNT SCREEN)
+	-The main page also has an "about" button, which brings up content telling the user how to use the app.
+	-The user can also put in a days worth of food without being signed in, and can access the app's food list.
+	
+####################
+## ACCOUNT SCREEN ##
+####################
+At this screen, the user can:
+	-Enter a days worth of food. This can be left uncompleted, and can be completed in increments throughout the day. The result is stored in a DAYINTAKE class. The time stamp of when the first food is entered is set as the default date. This screen consists of these visual pieces:
+		-A place to enter the date.
+		-A list of servings to choose from. This list also has a search button associated with it that searches through the names and information of the servings on the list, and returns any relevant results. When an item is selected, it displays info about the food, and also gives the user the option to add this food to their current DAYINTAKE class.
+		-A serving multiplier, that only adds half of a serving of food to the DAYINTAKE class if you only ate half a giving serving, or twice if you ate a double serving, and so on.
+		-As the user picks foods, the servings are added to a visible list. Each item on the list can be clicked on to display info about the food, and can also be removed from the list.
+		-There is a save button, for saving an unfinished DAYINTAKE instance midway through a day. There is also a submit button, which sets DAYINTAKES "final" member variable equal to true. The submit button also adds the DAYINTAKE instance to the user's array of DAYINTAKEs.
+		-(I'm not entirely sure I want to add this yet) Plots of the cumulative serving in progress that adjust themselves as the foods are added or removed from the list of selected servings. These plots will plot the same things as the plots described below.
+	-Get plots for one day, or a group of days. The plots are accompanied by numeric values for the user's suggested values of each vitamin and mineral for the selected group of days, along with their actual intake values of each vitamin and mineral for the selected group of days. The are the plots displayed are:
+		-Mineral plot: a circular histogram of minerals consumed, with a ring midplot showing the user's recommended intake.
+		-Vitamin plot: a circular histogram of vitamins consumed, with a ring midplot showing the user's recommended intake.
+		-A histogram plot featuring vitamins and minerals that people can get too much of, with a ring midplot showing the user's recommended intake, and a second ring showing when the user is getting too much of vitamin or a mineral.
+	-(This part is preliminary at best, but important) Get food suggestions for one day, or a group of days. Here, the user selects a DAYINTAKE or multiple DAYINTAKEs from their personal array of DAYINTAKEs, and gets suggestions of foods to eat. Right now I think I'll implement this by making a cumulative serving of the days. I will then consider two distributions, a discrete uniform distribution with an x-axis position for every vitamin, mineral, carb, fat, and protein, where f(x) = 100% of the user's recommended intake for the number of days selected. This is hypothetically supposed to be the perfect nutritional recommendation for the user. Then, I will consider the distribution represented by the user's actual intake for the days selected, with a given number of servings added to it. If the user has over 100% of a vitamin or mineral that you cannot get too much of, the user's intake for that vitamin or mineral will be set to 100%, and will not increase or decrease. Then for each combination of available servings of the specified number, I will add the combo to the user's intake, and do a chi-square test to see how closely the cumulative serving resembles the uniform distribution that is hypothetically the perfect amount of nutrients for the user. I will then store the combos into a min-first priority queue sorted by the combo's alpha score (see SUGCOMBO class). I will only insert combos into the heap if the heap is smaller than five entries, or the current combo in question's alpha score is smaller than that of the minimum element in the priority queue. After the heap is complete, I will extract from the heap to show the user the top five food suggestions, and some indication on how beneficial those suggestions may be to their diet (based on the alpha-score of the test).
+	
+####################
+## SIGN UP SCREEN ##
+####################
+To create an account, users input all the information required to create a USER class associated with the given user. This USER class will be stored in the database for future use.
+	-every field is required, except for email. Also, the array containing DAYINTAKE classes is initialized to be empty.
+
+##################
+## USER (CLASS) ##
+##################
+Each user will have an instance of the user class associated with them. The user class stores this information for each user.
+		-email (optional for password recovery).
+		-username
+		-password
+		-name
+		-age
+		-weight
+		-height
+		-amount of exercise (1 (lowest) - 5 (highest))
+		-an array containing a series of days worth of food consumed (see the DAYINTAKE class). This array contains DAYINTAKE classes in chronological order. However, there can be varying time gaps between the days stored within this array.
+		-an array of past food suggestion logs (see SUGGESTLOG)
+		
+#######################
+## DAYINTAKE (CLASS) ##
+#######################
+This class stores the servings of food eaten on a given day. It contains:
+	-An array of food servings consumed that day (See SERVING class).
+	-A serving called "totServ," which is the sum of all the servings eaten that day.
+	-A date it refers to (date).
+	-A time stamp of when it was entered.
+The constructor takes an array of servings, and an optional date. If the date is left empty, "date" is set to the time it was entered.
+	-a boolean interval (final) that is true if the user has finished entering all of the food they ate that day. By default, final is initially set to false.
+	-While this class is constructed by the user for a given day, the array of foods can be left incomplete for the day. When completed, "final" is set to true.
+	
+#####################
+## SERVING (CLASS) ##
+#####################
+The serving class specifies the nutritional information for one serving of each food. It contains these elements (these are mostly from the old java project I did):
+	private String name;
+	private enum group; // (Fruits, Vegetables, Proteins, Grains, Dairy)
+	private double cal;
+	private double protein;
+	private double carb;
+	private double fat;
+	private double vitA;
+	private double vitB1;
+	private double vitB2;
+	private double vitB3;
+	private double vitB5;
+	private double vitB6;
+	private double vitB7;
+	private double vitB9;
+	private double vitB12;
+	private double vitC;
+	private double vitD;
+	private double vitE;
+	private double fiber;
+	private double potassium;
+	private double calcium;
+	private double phosphorus;
+	private double magnesium;
+	private double manganese;
+	private double iron;
+	private double sodium;
+	private double copper;
+	private double zinc;
+	private double selenium;
+	private double fluoride;
+The serving class also has a function that adds the nutritional contents of two servings together and returns a sum of servings.
+
+######################
+## SUGCOMBO (CLASS) ##
+######################
+This class stores combos of foods. It has:
+	-An array of servings ( the combo)
+	-alpha (the statistic representing how good of a fit the statistic is for the users diet).
+
+
+		

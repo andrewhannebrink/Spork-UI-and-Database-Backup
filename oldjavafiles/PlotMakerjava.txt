@@ -1,0 +1,59 @@
+package Package;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.Writer;
+
+import org.omg.CORBA_2_3.portable.InputStream;
+
+public class PlotMaker {
+	private Serving s;
+	private User u;
+	
+	
+	public PlotMaker (Serving serving, User user){
+		s=serving;
+		u=user;
+	}
+	
+	public void makeMineralPlot() throws IOException{
+		double calcium = s.getCalcium()/u.getCalciumReq();
+		double copper = s.getCopper()/u.getCopperReq();
+		double iron = s.getIron()/u.getIronReq();
+		double magnesium = s.getMagnesium()/u.getMagnesiumReq(); 
+		double manganese = s.getManganese()/u.getManganeseReq();
+		double phosphorus = s.getPhosphorus()/u.getPhosphorusReq();
+		double potassium = s.getPotassium()/ u.getPotassiumReq();
+		double sodium = s.getSodium()/u.getSodiumReq();
+		double zinc = s.getZinc()/u.getZincReq();
+		
+		//BufferedWriter output = null;
+		File file = new File("/home/gary/workspace/mineralplotdata.dat");
+		BufferedWriter output = new BufferedWriter(new FileWriter(file));
+		output.write("0 "+calcium);output.newLine();
+		output.write("0.698132 "+copper);output.newLine();
+		output.write("1.39626 "+iron);output.newLine();
+		output.write("2.0944 "+magnesium);output.newLine();
+		output.write("2.79253 "+manganese);output.newLine();
+		output.write("3.49066 "+phosphorus);output.newLine();
+		output.write("4.18879 "+potassium);output.newLine();
+		output.write("4.88692 "+sodium);output.newLine();
+		output.write("5.58505 "+zinc);output.newLine();
+		output.write("6.28319 "+calcium);
+		output.close();
+		System.out.println("Your file has been written");  
+		
+		
+		JavaRunCommand jrc =  new JavaRunCommand("gnuplot /home/gary/workspace/mineralplot.plt");
+		jrc.runCommand();
+
+	}
+}
+
+
+
+

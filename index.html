@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<head>
+	<title>Spork</title>
+	<script src="jquery-1.9.1.js" type="text/javascript"></script>
+	<script src="jquery.animate-shadow.js" type="text/javascript"></script>
+	<script src="intro.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="spork.css" />
+</head>
+
+
+<div id="container">
+	<!--NEW USER DIV-->
+	<div id="newuserdiv" class="theme">
+		<a href="#" id="newuserx" class="theme button xbutton generalfont" onmousedown="$('#newuserx').stop().animate({boxShadow: '-2px 2px 2px', top:'+=3px'}, 4)" onmouseup="$('#newuserx').stop().animate({boxShadow: '-18px 18px 15px',top:'-=3px'},100)"></a>
+		<h3 class="generalfont" style="width:270px;">Create an Account</h3>
+		<h5 class="generalfont">Already have an account? Sign in <a href="#">here</a>.</h5>
+		<table>
+			<tr>
+				<td style="text-align:right" class="generalfont">Full name:</td>
+				<td> <form><input type="text" name="name"></td>
+			</tr>
+			<tr>
+				<td style="text-align:right" class = "generalfont">Username:</td>
+				<td><input type="text" name="username"></td>
+			</tr>
+			<tr>
+				<td style="text-align:right" class="generalfont">Password:</td>
+				<td><input type="password" name="password"></td>
+			</tr>
+			<tr>
+				<td style="text-align:right" class="generalfont">Re-enter password:</td>
+				<td><input type="password" name="rpassword"></td>
+			</tr>
+			<tr>
+				<td style="text-align:right" class="generalfont">Email:</td>
+				<td><input type="text" name="email"></td>
+			</tr>
+			<tr>
+				<td style="text-align:right" class = "generalfont">Age:</td>
+				<td><input type="text" name="age"></td>
+			</tr>
+			<tr>
+				<td style="text-align:right" class="generalfont">Weight:</td>
+				<td><input type="text" name="weight"></td>
+			</tr>
+			<tr>
+				<td style="text-align:right" class="generalfont">Height:</td>
+				<td><input type="text" name="height"></td>
+			</tr>
+			<tr>
+				<td style="text-align:right" class="generalfont">Exercise:<br>(1(low)-5(high))	</td>
+				<td><input type="text" name="exercise"></td>
+			</tr>
+			<tr>
+				<td></td>
+	 			<td><input type="submit" value = "Submit"></form></td>
+			</tr>
+		</table>
+	</div>
+	<!--SIGN IN DIV-->
+	<div id="signindiv" class="theme">
+		<a href="#" id="signinx" class="theme button xbutton generalfont" onmousedown="$('#signinx').stop().animate({boxShadow: '-2px 2px 2px', top:'+=3px'}, 4)" onmouseup="$('#signinx').stop().animate({boxShadow: '-18px 18px 15px',top:'-=3px'},100)"></a>
+		<h3 class="generalfont" style="width:270px;">Sign in</h3>	
+		<h5 class="generalfont">Don't have an account? Click <a href="#">here</a>.</h5>
+		<table>
+			<tr>
+				<td style="text-align:right" class="generalfont">Username:</td>
+				<td><form><input type = "text" name="usernamesi"></td>
+			</tr>
+			<tr>	
+				<td style="text-align:right" class="generalfont">Password:</td>
+				<td><input type="password" name="passwordsi"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><input type="submit" value = "Submit"></form></td>
+			</tr>
+		</table>
+	</div>
+
+	<!--ABOUT DIV-->
+	<div id="aboutdiv" class="theme">
+		<a href="#" id="aboutx" class="theme button xbutton generalfont" onmousedown="$('#aboutx').stop().animate({boxShadow: '-2px 2px 2px', top:'+=3px'}, 4)" onmouseup="$('#aboutx').stop().animate({boxShadow: '-18px 18px 15px',top:'-=3px'},100)"></a>
+	</div>
+
+	<!--TRY DIV-->
+	<div id="trydiv" class="theme">
+		<a href="#" id="tryx" class="theme button xbutton generalfont" onmousedown="$('#tryx').stop().animate({boxShadow: '-2px 2px 2px', top:'+=3px'}, 4)" onmouseup="$('#tryx').stop().animate({boxShadow: '-18px 18px 15px',top:'-=3px'},100)"></a>
+		<div id="selectdiv" class="fooddiv"> 
+			<p class="generalfont" >Select the food you ate today:</p>		
+			<div id="searchdiv">
+				<table>
+					<tr>
+						<td><form><input type="text" name="searchfood" style="width:150px"></td>
+						<td><input type="submit" value="search"></td></form>
+					</tr>
+				</table>
+			</div>
+			<div class="spread2evenly">
+				<a href="#" id="fruits" style="font-size:12px;">fruits</a>
+				<a href="#" id="veggies" style="font-size:12px;">veggies</a>
+				<a href="#" id="grains" style="font-size:12px;">grains</a>
+				<a href="#" id="proteins" style="font-size:12px;">proteins</a>
+				<a href="#" id="dairy" style="font-size:12px;">dairy</a>
+			</div>
+			<SELECT NAME="foodselect" SIZE="16" MULTIPLE class="scrollmenu">
+				<OPTION SELECTED> Apples
+				<OPTION> Bananas
+				<OPTION> Oranges
+				<OPTION> Watermelon
+				<OPTION> Kiwi
+				<OPTION> Cantaloupe
+				<OPTION> Strawberrieasdfklajoijeafslkms
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberrieasdfasdfweaewfasfaseffas
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+				<OPTION> Strawberries
+			</SELECT>
+		</div>
+		<div id="todaydiv" class="fooddiv">
+			<p class="generalfont" >Your day's worth of food:</p>
+			<select name="foodtoday" size="20" class="scrollmenu">
+				<option selected> pepperoni pizza
+				<option> pineapple
+				<option> brocolli
+			</select>
+			<div class="spread2evenly">
+				<button type="button" id="savefood">save for later</button>
+				<button type="button" id="removefood">remove food</button>
+				<button type="button" id="submitfood">submit</button>
+			</div>
+		</div>
+	</div>
+		
+
+	<!--INTRO BUTTONS-->
+	<a href="#" id="about" class="menubutton generalfont button theme" onmousedown="$('#about').stop().animate({boxShadow: '-2px 2px 2px', top:'+=3px'}, 4)" onmouseup="$('#about').stop().animate({boxShadow: '-18px 18px 15px',top:'-=3px'},100)">
+		<img src="aboutpic.png"></img>
+	</a>
+	<a href="#" id="try" class="menubutton generalfont button theme" onmousedown="$('#try').stop().animate({boxShadow: '-2px 2px 2px', top:'+=3px'}, 4)" onmouseup="$('#try').stop().animate({boxShadow: '-18px 18px 15px',top:'-=3px'},100)">
+		<img src="trypic.png"></img>
+	</a>
+	<a href="#" id="newuser" class="menubutton generalfont button theme" onmousedown="$('#newuser').stop().animate({boxShadow: '-2px 2px 2px', top:'+=3px'}, 4)" onmouseup="$('#newuser').stop().animate({boxShadow: '-18px 18px 15px',top:'-=3px'},100)">
+		<img src="newuserpic.png"></img>
+	</a>
+	<a href="#" id="signin" class="menubutton generalfont button theme" onmousedown="$('#signin').stop().animate({boxShadow: '-2px 2px 2px', top:'+=3px'}, 4)" onmouseup="$('#signin').stop().animate({boxShadow: '-18px 18px 15px',top:'-=3px'},100)">
+		<img src="signinpic.png"></img>
+	</a>
+	<div id="introbackground" class="theme">
+		<img src="sporklogo.svg" id="sporklogo"</img>
+	</div>
+</div>
+
+
+
+</body>
+</html>

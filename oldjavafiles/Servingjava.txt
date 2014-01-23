@@ -1,0 +1,102 @@
+package Package;
+
+import java.util.ArrayList;
+
+public class Serving {
+	
+	private String name;
+	private double cal;
+	private double protein;
+	private double carb;
+	private double fat;
+	private double vitA;
+	private double vitB;
+	private double vitC;
+	private double vitD;
+	private double vitE;
+	private double fiber;
+	private double potassium;
+	private double calcium;
+	private double phosphorus;
+	private double magnesium;
+	private double manganese;
+	private double iron;
+	private double sodium;
+	private double copper;
+	private double zinc;
+	
+	public Serving (String n, double cl, double p, double cb, double f, double va, double vb, double vc, double vd, double ve,
+		double fi, double po, double ca, double ph, double mag, double man, double ir, double so, double co, double z){
+		name = n;
+		cal = cl;
+		protein = p;
+		carb = cb;
+		fat = f;
+		vitA = va;
+		vitB = vb;
+		vitC = vb;
+		vitD = vd;
+		vitE = ve;
+		fiber = fi;
+		potassium = po;
+		calcium = ca;
+		phosphorus = ph;
+		magnesium = mag;
+		manganese = man;
+		iron = ir;
+		sodium = so;
+		copper = co;
+		zinc = z;
+	}
+	
+	public String getName(){ return name;}
+	public double getCal(){ return cal;}
+	public double getProtein(){ return protein;}
+	public double getCarb(){ return carb;}
+	public double getFat(){ return fat;}
+	public double getVitA(){ return vitA;}
+	public double getVitB(){ return vitB;}
+	public double getVitC(){ return vitC;}
+	public double getVitD(){return vitD;}
+	public double getVitE(){return vitE;}
+	public double getFiber(){return fiber;}
+	public double getPotassium(){return potassium;}
+	public double getCalcium(){return calcium;}
+	public double getPhosphorus(){return phosphorus;}
+	public double getMagnesium(){return magnesium;}
+	public double getManganese(){return manganese;}
+	public double getIron(){return iron;}
+	public double getSodium(){return sodium;}
+	public double getCopper(){return copper;}
+	public double getZinc(){return zinc;}
+	
+	
+	public Serving multiplyServing(double x){
+		String xName = this.getName()+"x"+x;
+		Serving newServing = new Serving(xName, this.getCal()*x, this.getProtein()*x, this.getCarb()*x, this.getFat()*x,
+				this.getVitA()*x, this.getVitB()*x, this.getVitC()*x, this.getVitD()*x, this.getVitE()*x,
+				this.getFiber()*x, this.getPotassium()*x, this.getCalcium()*x, this.getPhosphorus()*x,
+				this.getMagnesium()*x, this.getManganese()*x, this.getIron()*x, this.getSodium()*x, 
+				this.getCopper()*x, this.getZinc()*x);
+		return newServing;
+	}
+	
+	
+	public Serving addServings(Serving s){
+		String newName = this.getName()+", "+s.getName();
+		Serving newServing = new Serving(newName, this.getCal()+s.getCal(), this.getProtein()+s.getProtein(),
+				this.getCarb()+s.getCarb(), this.getFat()+s.getFat(), this.getVitA()+s.getVitA(), this.getVitB()+s.getVitB(),
+				this.getVitC()+s.getVitC(), this.getVitD()+s.getVitD(), this.getVitE()+s.getVitE(), this.getFiber()+s.getFiber(), 
+				this.getPotassium()+s.getPotassium(), this.getCalcium()+s.getCalcium(), this.getPhosphorus()+s.getPhosphorus(),
+				this.getMagnesium()+s.getMagnesium(), this.getManganese()+s.getManganese(), this.getIron()+s.getIron(),
+				this.getSodium()+s.getSodium(), this.getCopper()+s.getCopper(), this.getZinc()+s.getZinc());
+		return newServing;
+	}
+	
+	
+	
+	
+	
+}
+	
+

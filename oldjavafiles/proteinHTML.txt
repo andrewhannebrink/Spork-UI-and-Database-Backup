@@ -1,0 +1,1758 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html40/loose.dtd">
+<html>
+<head>
+<title>meat-protein chart | Nutrient chart | Vitamins and minerals in common meats and proteins</title>
+<meta name="description" content="Meats and proteins chart: nutrition chart with pictures provides an easy cross-reference for vitamin and mineral content in fruits, vegetables, proteins, nuts and seeds.">
+<meta name="keywords" content="nutrition chart, nutritional value, food nutritional value, vitamin chart, mineral chart, meats and proteins">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="language" content="en-us">
+<meta name="resource-type" content="document">
+<meta name="author" content="Dr. J.D. Decuypere">
+<link rel="StyleSheet" href="b.css" type="text/css">
+<meta name="lastmod" content="2012-07-25">
+<meta name="expires" content="Wednesday, 31 December 2008 23:59:59 GMT">
+</head>
+<body>
+<table width="648" cellpadding="0" cellspacing="0" border="0" align="center"><!-- 1 -->
+<tr><td height="11"><img src="images/as.gif" height="11" width="6" border="0"></td></tr>
+<tr><td><img src="images/decuypere_healthalternatives.gif" width="648" height="54" alt="Fruit nutrient chart - mineral and vitamin nutrition in fruits"></td></tr>
+<tr><td><img src="images/decuypere_healthalternatives_02.gif" width="648" height="11" alt="Fruit nutrient chart - mineral and vitamin nutrition in fruits"></td></tr>
+<tr><td height="10"><img src="images/as.gif" height="10" width="5"></td></tr>
+</table><!-- /1 -->
+<table width="98%" border="0" cellspacing="0" cellpadding="0"><!-- 2 -->
+<tr valign=top>
+<td valign=top><!-- empty --></td>
+<td valign="top" rowspan=2> 
+<h1 align="center"><span class="h1sub">Dr. Decuypere's Nutrient Charts</span><sup><span style="font-size: 10px;">™</span></sup><br>~~ Meats & Proteins Chart ~~<br></h1>
+<p align="center"><a href="nutrient-chart-e-book.html"><img src="images/Printable Charts Long.gif" width="428" height="113"></a></p>
+<p align="center">Use these charts to find the nutrient contents of your favorite fruits, nuts, proteins and vegetables.</p>
+<p style="color: #008080;" align="center">Click on the buttons below to visit each chart:</p>
+<p align="center">
+<a href="minerals-nutrition-chart.html" title="Nutritional Chart of Minerals" name="minerals">Minerals</a> | 
+<a href="vitamins-nutrition-chart.html" title="Nutritional Chart of Vitamins" name="vitamins">Vitamins</a> | 
+<a href="fruit-nutrition-chart.html" title="Nutritional Chart of Fruits" name="fruits">Fruits</a> | 
+<a href="vegetables-nutrition-chart.html" title="Nutritional Chart of Vegetables" name="vegetables">Vegetables</a> | 
+<a href="nut-seed-nutrition-chart.html" title="Nutritional Chart of Nuts and Seeds" name="nuts">Nuts & Seeds</a> | 
+<a href="legumes-nutrition-chart.html" title="Nutritional Chart of Legumes" name="legumes">Legumes</a> | 
+<a href="meat-protein-nutrition-chart.html" title="Nutritional Chart of Proteins" name="nuts">Proteins</a>
+</p>
+
+
+<table border="1" bordercolor="#C9EDEB" align="center"  cellpadding="6" cellspacing="0"><!-- 3 -->
+<tr valign="top"><td colspan="4"><p><b>Note that only those nutrients which appear in significant quantities are listed.  For more detailed information, please visit the <a href="http://www.nal.usda.gov/fnic">United States Department of Agriculture (USDA) Food & Nutrition Center</a>.</b></p>
+</td>
+</tr>
+<tr valign="middle">
+<td width="15%"><p><b>Meat/Protein</b></p></td>
+<td width="20%"><p><b>Protein/Fiber</b></p></td>
+<td width="35%"><p><b>Minerals</b></p></td>
+<td width="35%"><p><b>Vitamins</b></p></td>
+</tr>
+<tr valign="top">
+<td><a name="beef"></a><p align="center">Beef</p>
+<p align="center"><img src="images/beef.jpg" alt="almonds nutritional information" border="0" width="69" height="58" hspace="0" vspace="0" align="center"></p></td>
+<td><p>Six ounces of lean, chuck beef, braised contains 49.2 grams of protein, 505 calories and 32.59 grams of fat.
+</p></td>
+<td><p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> -  393 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 296 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 27 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 32 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 4.11 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 80 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 11.32 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.017 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.168 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 45.9 mcg
+<br>Also contains a small amount of other minerals.
+
+</p></td>
+<td><p>
+<a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.1 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.291 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 6.979 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.971 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.0481 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 15 mcg
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 3.62 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.87 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 3.1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 14 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="cheddar cheese"></a><p align="center">Cheddar Cheese</p>
+<p align="center"><img src="images/cheddarcheese.jpg" alt="Cheddar cheese nutritional information" border="0" width="77" height="70" hspace="0" vspace="0" align="center"></p></td>
+<td><p>One cup of shredded cheddar cheese contains 28.14 grams of protein, 455 calories and 37.45 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 111 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 579 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 815 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 32 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 0.77 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 702 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.011 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 3.51 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.35 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 15.7 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p>
+<a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.031 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.424 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.09 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.467 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.084 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 20 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.94 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 1132 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.33 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 3.2 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 27 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="cottage cheese"></a><p align="center">Cottage Cheese</p>
+<p align="center"><img src="images/cottagecheese.jpg" alt="Cottage cheese nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></td>
+<td><p>Four ounces of low fat 2% cottage cheese contains 13.37 grams protein, 97 calories and 2.77 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 95 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 184 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 103 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 8 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 0.17 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 373 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 0.46 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.034 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 11.2 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.046 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.224 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.122 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.286 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.025 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 11 mcg
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.51 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 84 IU 
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.05 mg
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="cream cheese"></a><p align="center">Cream Cheese</p>
+<center><p align="center"><img src="images/creamcheese.jpg" alt="Cream cheese nutritional information" border="0" width="86" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>Three ounces (1 small package) of cream cheese  contains 5.04 grams of protein, 291 calories and 29.1 grams of fat.</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 117 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 90 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 83 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 8 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 0.32 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 273 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.009 mg
+<br>
+<a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables"> Zinc</a> - 0.43 mg
+<br>
+<a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.016 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 2 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+ 
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.017 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.106 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.123 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.484 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.03 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 9 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.21 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 1075 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.55 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a>  - 2.9 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 21 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="chicken breast"></a><p align="center">Chicken Breast</p>
+<center><p align="center"><img src="images/chickenbreast.jpg" alt="Chicken breast nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of chicken breast, roasted with skin contains 29.80 grams of protein, 197 calories and 7.78 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 245 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 214 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 14 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a>-  27 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 1.07 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 71 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.018 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 1.02 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.05 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 24.7 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.066 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.119 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 12.71 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.936 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.56 mg
+<br>
+<a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 4 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.32 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 93 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.27 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.3 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 5 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="chickendark"></a><p align="center">Chicken (dark meat)</p>
+<center><p align="center"><img src="images/darkchicken.jpg" alt="Chicken, dark meat nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of dark meat, roasted with skin contains 25.97 grams of protein, 253 calories and 15.78 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 220 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 168 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 15 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 22 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 1.36 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 87 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.021 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 2.49 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.077 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 20.2 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.066 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.21 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 6.359 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 1.11 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.31 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 7 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.29 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 201 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="cowsmilk"></a><p align="center">Cows Milk</p>
+<center><p align="center"><img src="images/glassofmilk.jpg" alt="Cows milk nutritional information" border="0" width="90" height="114" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One cup of whole milk(without added Vit A & D) contains 7.69 grams of protein and 149 calories.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 322 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 205 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 276 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 24 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 0.07 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 105 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.01 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 0.9 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.061 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 9 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+ 
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.112 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.0412 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.217 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.91 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.088 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 12 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 1.1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 395 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.17 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.7 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 5 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="halfandhalf"></a><p align="center">Cream - Half and Half</p>
+<center><p align="center"><img src="images/halfandhalf.jpg" alt="Macadamias nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One fluid ounce of half and half (equal to 2 individual container servings) contains 0.89 grams of protein, 39 calories and 3.47 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 39 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 29 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 32 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 3 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 0.02 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 12 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 0.15 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.003 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 0.5 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 0.3  mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.011 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.045 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.024 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.087 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.012 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 1 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 107 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.1 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.4 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 2 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="whippedcream"></a><p align="center">Cream - Heavy Whipping Cream</p>
+<center><p align="center"><img src="images/whipcream.jpg" alt="Whipped Cream nutritional information" border="0" width="100" height="80" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One fluid ounce of heavy whipping cream with no sugar added contains 0.61 grams of protein, 103 calories and 11.03 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 22 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 18 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 19 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 2 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 0.01 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 11 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 0.07 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.002 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 0.1 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 0.2  mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.007 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.033 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0..12 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.076 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.008 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 1 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.05 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 438 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.32 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 8 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="eggs"></a><p align="center">Eggs</p>
+<center><p align="center"><img src="images/scrambledeggs.jpg" alt="Eggs nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>Two eggs scrambled, with no salt added contain 13.53 grams of protein, 204 calories and 14.9 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 168 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 207 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 87 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 15 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 1.46 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 342 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.027 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 1.22 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.017 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 27.4 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 0.2  mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.063 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.533 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.096 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 1.229 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.144 mg
+<br>
+<a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 37 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.94 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 642 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 1.33 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 4.9 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 59 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="anchovies"></a><p align="center">Fish - Anchovies</p>
+<center><p align="center"><img src="images/anchovy.jpg" alt="Anchovies nutritional information" border="0" width="83" height="68" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One ounce of boneless anchovies, canned in oil and drained  contains 8.19 grams of protein, 60 calories and 2.75 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 154 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 71 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 66 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 20 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 1.31 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 1040 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.028 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 0.69 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.096 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 19.3 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.022 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.103 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 5.643 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.258 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.058 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 4 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.25 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 11 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.94 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 3.4 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 20 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="catfish"></a><p align="center">Fish - Catfish</p>
+<center><p align="center"><img src="images/catfish.jpg" alt="Catfish nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of catfish, cooked with dry heat contains 18.72 grams of protein, 152 calories and 8.02 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 321 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 245 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 9 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 26 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 0.82 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 80 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.02 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 1.05 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.122 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 14.5 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 0.8  mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.42 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.073 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 2.513 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.617 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.163 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 7 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 2.8 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 50 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="caviar"></a><p align="center">Fish - Caviar</p>
+<center><p align="center"><img src="images/cavier.jpg" alt="Cavier nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One ounce of caviar, black or red contains 6.97 grams of protein, 71 calories and 5.07 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 51 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 101 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 78 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 85 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 3.37 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 425 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.014 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 0.27 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.031 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 18.6 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.054 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.176 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.034 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.992 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.091 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 14 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 5.67 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 257 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.54 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.2 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 33 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="cod"></a><p align="center">Fish - Cod</p>
+<center><p align="center"><img src="images/cod.jpg" alt="Cod nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of cod cooked with dry heat contains 22.83 grams of protein, 105 calories and 0.86 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 244 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 138 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 14 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 42 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> - 0.49 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 78 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.02 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">Zinc</a> - 0.58 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.036 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">Selenium</a> - 37.6 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 1 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.088 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.079 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 2.513 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.18 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.283 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 8 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 1.05 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 47 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.81 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 46 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="herring"></a><p align="center">Fish - Herring</p>
+<center><p align="center"><img src="images/herring.jpg" alt="Herring nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of herring cooked with dry heat, contains 23.03 grams of protein, 203 calories and 11.59 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 419 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 303 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 74 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 41 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.41 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 115 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.04 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 1.27 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.118 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 46.8 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 0.7 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.112 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.229 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 4.124 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.74 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.348 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 12 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 13.14 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 120 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 1.37 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 214 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+
+<tr valign="top">
+<td><a name="perch"></a><p align="center">Fish - Perch</p>
+<center><p align="center"><img src="images/perch.jpg" alt="Perch nutritional information" border="0" width="101" height="73" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of perch cooked with dry heat, contains 24.86 grams of protein, 117 calories and 1.18 grams of fat.
+
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 344 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 257 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 102 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 38 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.16 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 79 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.9 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 1.43 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.192 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 16.1 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 1.7  mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.08 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.12 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 1.9 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.87 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.14 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 6 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 2.2 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 32 IU
+
+
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="pollock"></a><p align="center">Fish - Pollock</p>
+<center><p align="center"><img src="images/pollock.jpg" alt="Pollock nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of Atlantic pollock cooked with dry heat, contains 24.92 grams of protein, 118 calories and 1.26 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 456 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 283 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 77 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 86 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 0.59 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 110 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.019 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 0.6 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.064 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 46.8 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.054 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.225 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 3.983 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.413 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.331 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 3 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 3.68 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 40 IU
+
+
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="salmon"></a><p align="center">Fish - Salmon</p>
+<center><p align="center"><img src="images/salmon.jpg" alt="Salmon nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of wild, Atlantic salmon cooked with dry heat, contains 25.44 grams of protein, 182 calories and 8.13 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 628 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 256 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 15 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 37 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.03 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 56 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.021 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 0.82 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.321 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 46.8 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.275 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.487 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 10.077 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 1.92 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.944 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a>-  29 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 3.05 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 44 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="sardines"></a><p align="center">Fish - Sardines</p>
+<center><p align="center"><img src="images/sardines.jpg" alt="Sardines nutritional information" border="0" width="100" height="75" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of Atlantic sardines, canned in oil, drained solids with bone, contains 24.62 grams of protein, 208 calories and 11.45 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 397 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 490 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 382 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 39 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 2.92 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 505 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.108 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 1.31 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.186 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 52.7 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.08 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.227 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 5.245 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.64 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.167 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 10 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 8.94 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 108 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 2.04 mg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 193 IU
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 2.6 mcg
+
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="tuna"></a><p align="center">Fish - Tuna</p>
+<center><p align="center"><img src="images/tuna.jpg" alt="Tuna nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of bluefin tuna, cooked with dry heat, contains 29.91 grams of protein, 184 calories and 6.28 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 323 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 326 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 10 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 64 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.31 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 50 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a>-  0.02 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 0.77 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.11 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> 46.8 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.278 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.306 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 10.54 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 1.37 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.525 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 2 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 10.88 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 2520 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="goat milk"></a><p align="center">Goat Milk</p>
+<center><p align="center"><img src="images/goatmilk.jpg" alt="Goat milk nutritional information" border="0" width="100" height="80" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One cup of goat milk contains 8.69 grams of protein, 168 calories and 10.1 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 498 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 271 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 327 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 34 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 0.12 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 122 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.044 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 0.73 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.112 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 3.4 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 3.2 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.117 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.337 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.676 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.756 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.112 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 2 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.17 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 483 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.17 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.7 mcg
+
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr><tr valign="top">
+<td><a name="goat cheese"></a><p align="center">Goat Cheese</p>
+<center><p align="center"><img src="images/goatcheese.jpg" alt="Goat Cheese nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of semisoft goat cheese, contains 21.58 grams of protein, 364 calories and 29.84 grams of fat.
+</p></td>
+
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 158 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 375 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 298 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 29 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.62 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 515 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.093 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 0.66 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.564 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 3.8 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.072 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.676 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 1.148 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.19 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.06 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 2 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.22 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 1464 IU
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 22 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.26 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 2.5 mcg
+
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="lamb"></a><p align="center">Lamb</p>
+<center><p align="center"><img src="images/lamb.jpg" alt="Lamb nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of shoulder of lamb, roasted, contains 22.51 grams of protein, 276 calories and 22.51 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 251 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 184 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 20 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 23 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.97 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 66 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.022 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 5.23 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.108 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 26.2 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.09 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.24 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 6.15 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.7 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.13 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 21 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 2.64 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.14 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 4.6 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 2 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="pork"></a><p align="center">Pork</p>
+<center><p align="center"><img src="images/pork.jpg" alt="Pork nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of lean roast pork, center loin, contains 27.55 grams of protein, 199 calories and 9.01 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 362 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 219 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 25 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 22 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.04 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 66 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.016 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 2.09 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.07 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 43.2 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 1 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.912 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.266 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 5.454 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.694 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.371 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 4 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.58 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 7 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="soybeans"></a><p align="center">Soybeans - Roasted</p>
+<center><p align="center"><img src="images/soybeans.jpg" alt="Soybean nutritional information" border="0" width="100" height="90" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of roasted soybeans, with no salt, contains 35.22 grams of protein, 471 calories, 25.4 grams of fat and 17.7 grams of fiber.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 1470 mg
+<br>
+<a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 363 mg
+<br>
+<a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 138 mg
+<br>
+<a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 145 mg
+<br>
+<a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 3.9 mg
+<br>
+<a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 4 mg
+<br>
+<a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 2.158 mg
+<br>
+<a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 3.14 mg
+<br>
+<a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.828 mg
+<br>
+<a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 19.1 mcg
+<br>
+Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 2.2 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.1 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.145 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 1.41 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.453 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.208 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 211 mcg 
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="soy milk"></a><p align="center">Soy Milk</p>
+<center><p align="center"><img src="images/soymilk.jpg" alt="Soy milk nutritional information" border="0" width="90" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One cup of original, unfortified, soy milk contains 7.95 grams of protein, 131 calories, 4.25 grams of fat and 1.5 grams of fiber.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 287 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 126 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 61 mg
+br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 61 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.56 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 124 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.542 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 0.29 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.311 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 11.7 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.146 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.168 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 1.247 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.906 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.187 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 44 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 7 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.27 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 7.3 mcg
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="turkey breast"></a><p align="center">Turkey Breast</p>
+<center><p align="center"><img src="images/roastturkeybreast.jpg" alt="Goat milk nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of roast turkey breast contains 28.71 grams of protein, 189 calories and 7.41 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 288 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 210 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 21 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 27 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.4 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 63 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.02 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 2.03 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.047 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 29.1 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.057 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.131 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 6.365 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.634 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.48 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 6 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.36 mcg
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="turkey bacon"></a><p align="center">Turkey Bacon</p>
+<center><p align="center"><img src="images/turkeybacon.jpg" alt="Turkey Bacon nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of cooked turkey bacon contains 29.6 grams of protein, 382 calories annd 27.9 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 395 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 460 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 9 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 29 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 2.11 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 2285 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 3.03 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.15 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 25.8 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.06 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.24 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 3.53 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.32 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 9 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.36 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 1.03 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 7.1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 16 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="veal"></a><p align="center">Veal</p>
+<center><p align="center"><img src="images/veal.jpg" alt="Veal nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of braised veal cubes contains 34.94 grams of protein, 188 calories and 4.31 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 342 mg<br>
+<a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 239 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 29 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 28 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.44 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 93 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.04 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 6.01 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.153 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 15.2 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.07 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.4 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 8.3 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 1.19 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.38 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 16 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 1.67 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.45 mg
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="yogurt"></a><p align="center">Yogurt</p>
+<center><p align="center"><img src="images/yogurt.jpg" alt="Yogurt nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One cup of plain, whole milk yogurt contains 8.5 grams of protein, 149 calories and 7.96 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 380 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 233 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 296 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 29 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 0.12 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 113 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.01 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 1.45 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.022 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 5.4 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 1.2 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.071 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.348 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.184 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.953 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.078 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 17 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.91 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 243 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.15 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.5 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 5 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="sour cream"></a><p align="center">Sour Cream</p>
+<center><p align="center"><img src="images/sourcream.jpg" alt="Sour Cream nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of sour cream contains 2.07 grams of protein, 193 calories and 19.73 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 141 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 115 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 110 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 10 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 0.17 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 80 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.11 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 0.38 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.019 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 2.6 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 0.9 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.036 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.172 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.109 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.336 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.057 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 7 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.28 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 623 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.44 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 1.8 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 14 IU
+
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="turkey leg"></a><p align="center">Turkey Leg</p>
+<center><p align="center"><img src="images/turkeyleg.jpg" alt="Turkey Leg nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of roasted turkey leg contains 27.87 grams of protein, 208 calories and 9.82 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">Potassium</a> - 280 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">Phosphorus</a> - 199 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">Calcium</a> - 32 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">Magnesium</a> - 23 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">Iron</a> 2.3 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">Sodium</a> - 77 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">Manganese</a> - 0.023 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 4.27 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.154 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 37.8 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.06 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.241 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 3.561 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 1.205 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.33 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 9 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.36 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.62 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 4.1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 4 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="lowfat yogurt"></a><p align="center">Low Fat Yogurt</p>
+<center><p align="center"><img src="images/lowfatyogurt.jpg" alt="Goat milk nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One cup of plain, low fat, yogurt contains 12.86 grams of protein, 154 calories and 3.8 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 573 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 353 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 448 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 42 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 0.2 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 172 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.01 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 2.18 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.032 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 8.1 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminc" title="Nutrient chart: Vitamin C is found in these fruits, nuts and vegetables">Vitamin C</a> - 2 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.108 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.524 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.279 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 1.448 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.12 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 27 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 1.37 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 125 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.07 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.5 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 2 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr><tr valign="top">
+<td><a name="turkey hot dog"></a><p align="center">Hot Dog (Turkey)</p>
+<center><p align="center"><img src="images/turkeydog.jpg" alt="Turkey Hot Dog nutritional information" border="0" width="100" height="85" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One turkey hot dog (45 grams) contains 5.5 grams of protein, 100 calories and 7.78 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 176 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 77 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 67 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 6 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 0.66 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 485 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.015 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 0.83 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.032 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 6.8 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.016 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.081 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 1.656 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.252 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.064 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 4 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.37 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.28 mg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 10 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr><tr valign="top">
+<td><a name="duck"></a><p align="center">Roast Duck</p>
+<center><p align="center"><img src="images/duck.jpg" alt="Roast Duck nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of roast duck contains 18.99 grams of protein, 337 calories and 28.35 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 204 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 156 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 11 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 16 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 2.7 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 59 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.019 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 1.86 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.227 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> 20 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.174 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.269 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 4.825 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 1.098 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.18 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 6 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.3 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 210 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.7 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 5.1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 3 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr><tr valign="top">
+<td><a name="hamburger"></a><p align="center">Hamburger</p>
+<center><p align="center"><img src="images/hamburger.jpg" alt="Hamburger nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One 90% lean ground beef patty (82 grams) broiled contains 21.41 grams grams of protein, 178 calories and 9.62 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 273 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 166 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 11 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 18 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 2.22 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 56 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.011 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 5.22 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.075 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 17.7 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.036 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.143 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 4.64 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.532 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.326 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 7 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 2.1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.34 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.9 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 6 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr><tr valign="top">
+<td><a name="bacon"></a><p align="center">Bacon</p>
+<center><p align="center"><img src="images/bacon.jpg" alt="Bacon nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>Four slices of pork bacon (32 grams), cured, broiled, pan-fried or roasted contains 11.85 grams of protein, 173 calories and 13.37 grams fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 181 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 171 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 4 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 11 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 0.46 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 739 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 1.12 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.052 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 19.8 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.129 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.084 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 3.552 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.375 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.112 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 1 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.39 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 12 IU
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.1 mg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 13 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr><tr valign="top">
+<td><a name="pork sausage"></a><p align="center">Pork Sausage</p>
+<center><p align="center"><img src="images/porksausage.jpg" alt="Pork Sausage nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>Four small links of pork sausage (64 grams) contains 7.67 grams of protein, 196 calories and 18.07 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 309 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 100 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 7 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 7 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 0.38 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 529 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 0.84 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.113 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 11.7 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.136 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.115 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 1.796 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.343 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.115 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 1 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.42 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.16 mg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 28 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr><tr valign="top">
+<td><a name="beef sausage"></a><p align="center">Beef Sausage</p>
+<center><p align="center"><img src="images/beefsausage.jpg" alt="Beef Sausage nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of fresh beef sausage, cooked contains 18.21 grams of protein, 332 calories and 27.98 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 258 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 141 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 11 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 14 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.57 mg 
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 652 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 4.38 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.069 mg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.048 mg
+<br>
+<a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.15 mg
+<br>
+<a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 3.6 mg
+<br>
+<a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.515 mg
+<br>
+<a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.313 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 3 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 2.01 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamina" title="Nutrient chart: Vitamin A  is found in these fruits, nuts and vegetables">Vitamin A</a> - 81 IU
+<br>
+<a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.24 mg
+<br>
+<a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 1.1 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 18 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="beef jerky"></a><p align="center">Beef Jerky</p>
+<center><p align="center"><img src="images/beefjerky.jpg" alt="Beef Jerky nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One once of beef jerky contains 9.41 grams of protein, 115 calories, 0.5 grams fiber and 7.26 grams fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 169 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 115 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 6 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 14 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.54 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 627 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.031 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 2.3 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.064 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 3 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.044 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.04 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 0.491 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.046 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.051 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 38 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.28 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.14 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.7 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 3 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr><tr valign="top">
+<td><a name="beef hot dog"></a><p align="center">Hot Dog (Beef)</p>
+<center><p align="center"><img src="images/beefhotdogs.jpg" alt="Goat milk nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One beef hot dog (45 grams) contains 5.06 grams of protein, 148 calories and 13.31 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 70 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 72 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 6 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 6 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 0.68 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 513 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.037 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 1.11 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.083 mg
+<br><a href="minerals-nutrition-chart.htm- l#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> 3.7 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.018 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.066 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 1.067 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.11 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.04 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 2 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.77 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.09 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.8 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 16 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="ground turkey"></a><p align="center">Ground Turkey</p>
+<center><p align="center"><img src="images/groundturkey.jpg" alt="Goat milk nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>One four once ground turkey patty contains 22.44 grams of protein, 193 calories and 10.78 grams of fat.
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 221 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 161 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 20 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 20 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 1.58 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 88 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.016 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 2.35 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.074 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 30.5 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.044 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.138 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 3.952 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 0.667 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.32 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 6 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.27 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.28 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 0.7 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamind" title="Nutrient chart: Vitamin D is found in these fruits, nuts and vegetables">Vitamin D</a> - 7 IU
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+<tr valign="top">
+<td><a name="ground chicken"></a><p align="center">Ground Chicken</p>
+<center><p align="center"><img src="images/groundchicken.jpg" alt="Ground Chicken nutritional information" border="0" width="100" height="100" hspace="0" vspace="0" align="center"></p></center></td>
+<td><p>100 grams of cooked ground chicken contains 23.28 grams of protein, 189 calories and 10.92 grams of fat. 
+</p></td>
+<td>
+<p><a href="minerals-nutrition-chart.html#potassium" title="Nutrient chart: potassium is found in these fruits, nuts and vegetables">
+Potassium</a> - 677 mg
+<br><a href="minerals-nutrition-chart.html#phosphorus" title="Nutrient chart: phosphorus is found in these fruits, nuts and vegetables">
+Phosphorus</a> - 234 mg
+<br><a href="minerals-nutrition-chart.html#calcium" title="Nutrient chart: calcium is found in these fruits, nuts and vegetables">
+Calcium</a> - 8 mg
+<br><a href="minerals-nutrition-chart.html#magnesium" title="Nutrient chart: magnesium is found in these fruits, nuts and vegetables">
+Magnesium</a> - 28 mg
+<br><a href="minerals-nutrition-chart.html#iron" title="Nutrient chart: iron is found in these fruits, nuts and vegetables">
+Iron</a> - 0.93 mg
+<br><a href="minerals-nutrition-chart.html#sodium" title="Nutrient chart: Sodium is found in these fruits, nuts and vegetables">
+Sodium</a> - 75 mg
+<br><a href="minerals-nutrition-chart.html#manganese" title="Nutrient chart: manganese is found in these fruits, nuts and vegetables">
+Manganese</a> - 0.016 mg
+<br><a href="minerals-nutrition-chart.html#zinc" title="Nutrient chart: zinc is found in these fruits, nuts and vegetables">
+Zinc</a> - 1.92 mg
+<br><a href="minerals-nutrition-chart.html#copper" title="Nutrient chart: copper is found in these fruits, nuts and vegetables">Copper</a> - 0.062 mg
+<br><a href="minerals-nutrition-chart.html#selenium" title="Nutrient chart: selenium is found in these fruits, nuts and vegetables">
+Selenium</a> - 14.3 mcg
+<br>Also contains trace amounts of other minerals.</p></td>
+
+<td><p><a href="vitamins-nutrition-chart.html#vitaminb1" title="Nutrient chart: Vitamin B1 is found in these fruits, nuts and vegetables">Vitamin B1 (thiamine)</a> - 0.121 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb2" title="Nutrient chart: Vitamin B2 is found in these fruits, nuts and vegetables">Vitamin B2 (riboflavin)</a> - 0.302 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb3" title="Nutrient chart: Niacin is found in these fruits, nuts and vegetables">Niacin</a> - 7.107 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb5" title="Nutrient chart: Pantothenic Acid (Vitamin B5)  is found in these fruits, nuts and vegetables">Pantothenic Acid</a> - 1.327 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb6" title="Nutrient chart: Vitamin B6 is found in these fruits, nuts and vegetables">Vitamin B6</a> - 0.538 mg
+<br><a href="vitamins-nutrition-chart.html#vitaminb9" title="Nutrient chart: Folate (Vitamin B9)  is found in these fruits, nuts and vegetables">Folate</a> - 2 mcg 
+<br><a href="vitamins-nutrition-chart.html#vitaminb12" title="Nutrient chart: Vitamin B12 is found in these fruits, nuts and vegetables">Vitamin B12</a> - 0.51 mcg
+<br><a href="vitamins-nutrition-chart.html#vitamine" title="Nutrient chart: Vitamin E is found in these fruits, nuts and vegetables">Vitamin E</a> - 0.39 mg
+<br><a href="vitamins-nutrition-chart.html#vitamink"  title="Nutrient chart: Vitamin K is found in these fruits, nuts and vegetables">Vitamin K</a> - 2.1 mcg
+
+<br>Contains some other vitamins in small amounts.
+</p></td>
+</tr>
+</table>
+<!-- /3 -->
+<br><br>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tr><td class="bottomstuff">
+<p class="bottomstuff" align="center">
+<a href="emailist.html" class="bottomlinks" title="Join our email list for news on alternative health products">email newsletter</a>
+ &#149; <a href="links.html" class="bottomlinks" title="Links of Interest">links</a>
+ &#149; <a href="webmaster.html" class="bottomlinks" title="Contact our webmaster">webmaster</a> 
+ &#149; <a href="privacy.html" class="bottomlinks" title="Our privacy policy">privacy policy</a> 
+ &#149; <a href="sitemap.html" class="bottomlinks" title="See a site map for our site">site map</a> 
+ &#149; <a href="contact.html" class="bottomlinks" title="How to contact us">contact</a> 
+ &#149; <a href="questionnaire.html" class="bottomlinks" title="Fill in our questionnaire">questionnaire</a> 
+<br>See our <a href="disclaimer.html" class="bottomstuff" title="See our disclaimer"><b>terms of use/disclaimer</b></a> for use of this website.
+<br><a href="copyright.html" class="bottomstuff" title="Copyright info"><script language="JavaScript">
+<!--
+function y2k(number) { return (number <1000) ? number + 1900 : number; }
+var today = new Date();
+var year = y2k(today.getYear());
+document.write('Copyright</a> &copy; 2002-'+year+' Dr. J. D. Decuypere.  All rights reserved.');
+//-->
+</script><br><br>
+</p>
+</td></tr>
+</table>
+
+<center>
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">addthis_pub  = 'ha2000';</script>
+<a href="http://www.addthis.com/bookmark.php" onMouseOver="return addthis_open(this, '', '[URL]', '[TITLE]')" onMouseOut="addthis_close()" onClick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+</center>
+<br><br>
+
+</td></tr>
+<tr valign=top><td valign="top" class=men>
+<img src="images/as.gif" width="150" height="1" alt="" align=top><br style="clear: left; line-height: 1px;">
+<a href="index.html" title="Alternative Health - home page"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Home</a><br><br class=umen>
+
+<a href="nutrient-chart-e-book.html" title="Printable Nutrient chart of vitamins and minerals in common fruits and vegetables"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>NEW &nbsp;Printable<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nutrient&nbsp;charts</a><br><br class=umen>
+
+<a href="health-products.php" title="Health products: high blood pressure, insomnia herbal medicine"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Health&nbsp;products</a><br><br class=umen>
+
+<a href="alternative-health-care.html" title="Health Problems and alternative health care"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Health&nbsp;problems&nbsp;&amp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alternative&nbsp;health&nbsp;care</a><br><br class=umen>
+
+<a href="health-research-and-publications.html" title="Alternative Health research"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Health&nbsp;research<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&amp;&nbsp;publications</a><br><br class=umen>
+
+<a href="emailist.html" title="Join our email list for news on alternative health products"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Free&nbsp;email<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;newsletter</a><br><br class=umen>
+
+<a href="fruit-nutrition-chart.html" title="Nutrient chart of vitamins and minerals in common fruits and vegetables"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Nutrient&nbsp;charts</a><br><br class=umen>
+
+<a href="nutri-spec.html" title="Nutrition Plan"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Nutri-spec</a><br><br class=umen>
+
+<a href="chiropractor-testimonials.html" title="high blood pressure and insomnia testimonials"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Testimonials</a><br><br class=umen>
+
+<a href="decuypere-report.html" title="Alternative health research books and reports"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Decuypere&nbsp;report</a><br><br class=umen>
+
+<a href="recommended-reading.html" title="Books on alternative health care - solutions for health problems"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Recommended<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reading</a><br><br class=umen>
+
+<a href="about-dr-decuypere.html" title="About Dr. Decuypere, chiropractice physician"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>About&nbsp;the&nbsp;doctor</a><br><br class=umen>
+
+<a href="contact.html" title="How to contact us"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Contact&nbsp;us</a><br><br class=umen> 
+
+<a href="mailto:?subject=Dr.%20Decuypere%20website%26body=http://www.healthalternatives2000.com"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>Email&nbsp;this&nbsp;page</a><br><br class=umen>
+
+<a href="https://secure.extview.com/~drdecuy/cgi-bin/cart.cgi?name=view" title="View cart or checkout"><img src="images/pinkball.gif" align=left width="11" height="11" alt="" border=0 hspace=5 vspace=0>View&nbsp;cart</a>
+
+</td></tr>
+</table><!-- /2 -->
+
+</body>
+</html>

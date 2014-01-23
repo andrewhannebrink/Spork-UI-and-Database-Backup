@@ -1,0 +1,295 @@
+package Package;
+
+public class User {
+	
+	private String name;
+	private double weight;
+	private double height;
+	private double age;
+	private boolean gender;
+	public double bmr;
+	private int exercise;
+	public double proteinReq;
+	
+	public User(String n, double w, double h, double a, boolean g, int exercise){
+		name = n;
+		weight = w;
+		height = h;
+		age = a;
+		gender = g;
+		if (gender == true){
+			bmr = 66 + (6.3 * weight) + (12.9 * height) - (6.8 * age);
+		}
+		else {
+			bmr = 655 + (4.3 * weight) + (4.7 * height) - (4.7 * age);
+		}
+		if (exercise == 1){bmr = bmr + bmr * .2;}
+		if (exercise == 2){bmr = bmr + bmr * .3;}
+		if (exercise == 3){bmr = bmr + bmr * .4;}
+		if (exercise == 4){bmr = bmr + bmr * .5;}
+		if (exercise == 5){bmr = bmr + bmr * .6;}
+		
+		if (exercise==1 || exercise==2){ proteinReq = weight*0.36;}
+		if (exercise==3){ proteinReq = weight*0.54;}
+		if (exercise==4 && gender==true){ proteinReq = weight*.63;}
+		if (exercise==4 && gender==false){ proteinReq = weight*.59;}
+		if (exercise==5 && gender==true){ proteinReq = weight*.72;}
+		if (exercise==5 && gender == false){ proteinReq = weight*.63;}
+	}
+	
+	public double getBMR(){return bmr;}
+	public String getName(){return name;}
+	public double getWeight(){return weight;}
+	public double getHeight(){return height;}
+	public boolean getAge(){return gender;}
+	public int getExercise(){return exercise;}
+	
+	
+	public double getCalReq(){
+		return getBMR();
+		}
+	public double getProteinReq(){return proteinReq;}
+	
+	public double getCalciumReq(){
+			if (age<.5){ return  200;}
+			if (age >= .5 && age<1){return 260;}
+			if (age >= 1 && age<4){return 700;}
+			if (age >= 4 && age<9){return 1000;}
+			if (age >= 9 && age<14){return 1300;}
+			if (age >= 14 && age<19){return 1300;}
+			if (age >= 19 && age<51){return 1000;}
+			if (gender=true){
+				if (age >= 51 && age<71){return 1000;}
+			}
+			else {
+				if (age >= 51 && age<71){return 1200;}
+			}
+			if (age >=71){return 1200;}
+			else{ 
+				return 0;
+			}
+	}
+	
+	public double getCarbReq(){
+		return 100;
+	}
+	
+	public double getCopperReq(){
+		if (age<.5){ return  .2;}
+		if (age >= .5 && age<1){return .22;}
+		if (age >= 1 && age<4){return .34;}
+		if (age >= 4 && age<9){return .44;}
+		if (age >= 9 && age<14){return .7;}
+		if (age >= 14 && age<19){return .89;}
+		if (age >= 19){return .9;}
+		else{return 0;}
+		
+	}
+	public double getFatReq(){
+		if(age<4){ return 35;}
+		if(age>=4 && age <9){return 50;}
+		if(gender==true){
+			if(age>=9 && age <14){return 73;}
+			if(age>=14 && age <19){return 78;}
+		}
+		if(gender==false){
+			if(age>=9 && age <14){return 73;}
+			if(age>=14 && age <19){return 66;}
+		}
+		if(age>=19 && age <50){return 75;}
+		if(age>=14 && age <19){return 66;}
+		else{return 0;}
+	}
+	
+	public double getFiberReq(){
+		int a = 0;
+		if (age<1){a=0;}
+		if (age >= 1 && age<4){a= 19;}
+		if (age >= 4 && age<9){a= 25;}
+		if (gender==true){
+			if (age >= 9 && age<14){a= 31;}
+			if (age >= 14 && age<19){a= 38;}
+			if (age >= 19 && age<51){a= 38;}
+			if (age>=51){a=30;}
+		}
+		if (gender==false){
+			if (age >= 9 && age<14){a= 26;}
+			if (age >= 14 && age<19){a= 26;}
+			if (age >= 19 && age<51){a= 25;}
+			if (age>=51){a=21;}
+		}
+		return a;
+	}
+	
+	public double getIronReq(){
+		double a=0;
+		if (age<.5){ a= .27;}
+		if (age >= .5 && age<1){a= 11;}
+		if (age >= 1 && age<4){a= 7;}
+		if (age >= 4 && age<9){a= 10;}
+		if (age >=9 && age<14){a= 8;}
+		if (gender == true){
+			if (age >= 14 && age<19){a= 11;}
+			if(age>= 19 && age<51){a= 8;}
+		}
+		if (gender == false){
+			if (age >= 14 && age<19){a= 15;}
+			if(age>= 19 && age<51){a= 18;}
+		}
+		if (age>=51){ a= 8;}
+		return a;
+	}
+	
+	public double getMagnesiumReq(){
+		double a = 0;
+		if (age<.5){ a=  30;}
+		if (age >= .5 && age<1){a= 75;}
+		if (age >= 1 && age<4){a= 80;}
+		if (age >= 4 && age<9){a= 130;}
+		if (age >=9 && age<14){a= 240;}
+		if (gender == true){
+			if (age>=14 && age<19 ){ a= 410 ;}
+			if (age>= 19&& age<31 ){ a= 400;}
+			if (age>= 31){ a= 420;}
+		}
+		if (gender == false){
+			if (age>=14 && age<19 ){ a= 360 ;}
+			if (age>= 19&& age<31 ){ a= 310;}
+			if (age>= 31){ a= 320;}
+		}
+		return a;
+	}
+	
+	public double getManganeseReq(){
+		double a = 0;
+		if (age<.5){ a=  .003;}
+		if (age >= .5 && age<1){a= .6;}
+		if (age >= 1 && age<4){a= 1.2;}
+		if (age >= 4 && age<9){a= 1.5;}
+		if (gender == true){
+			if (age >= 9 && age<14){a= 1.9;}
+			if (age >= 14 && age<19){a= 2.2;}
+			if (age>=19){a= 2.3;}
+		}
+		if (gender==false){
+			if (age >= 9 && age<14){a= 1.6;}
+			if (age >= 14 && age<19){a= 1.8;}
+			if (age>=19){a= 2.0;}
+		}
+		return a;
+	}
+	
+	public double getPhosphorusReq(){
+		double a = 0;
+		if (age<.5){ a=  100;}
+		if (age >= .5 && age<1){a= 275;}
+		if (age >= 1 && age<4){a= 460;}
+		if (age >= 4 && age<9){a= 500;}
+		if (age >=9 && age<19){a= 1250;}
+		if (age>=19){a= 700;}
+		return a;
+	}
+	
+	public double getPotassiumReq(){
+		double a = 0;
+		if (age<.5){ a=  400;}
+		if (age >= .5 && age<1){a= 700;}
+		if (age >= 1 && age<4){a= 3000;}
+		if (age >= 4 && age<9){a= 3800;}
+		if (age >=9 && age<14){a= 4500;}
+		if (age >=14 && age<19){a= 4700;}
+		if (age>=19){a=4700;}
+		return a;
+	}
+	
+	public double getSodiumReq(){
+		double a = 0;
+		if (age<.5){ return  120;}
+		if (age >= .5 && age<1){return 370;}
+		if (age >= 1 && age<4){return 1000;}
+		if (age >= 4 && age<9){return 1200;}
+		if (age >= 9 && age<51){return 1500;}
+		if (age >= 51 && age<71){return 1300;}
+		if (age >=71){return 1200;}
+		return a;
+		
+	}
+	
+	public double getVitAReq(){
+		double a = 0;
+		if (age<.5){ a=  .4;}
+		if (age >= .5 && age<1){a= .5;}
+		if (age >= 1 && age<4){a= .3;}
+		if (age >= 4 && age<9){a= .4;}
+		if (age >=9 && age<14){a= .6;}
+		if (gender == true){
+			if (age>=14){ a=900;}
+		}
+		if (gender == false){
+			if (age>=14){ a=700;}
+		}
+		return a;
+	}
+	
+	public double getVitBReq(){
+		return 1;
+	}
+	public double getVitCReq(){
+		double a = 0;
+		if (age<.5){ a=  40;}
+		if (age >= .5 && age<1){a= 50;}
+		if (age >= 1 && age<4){a= 15;}
+		if (age >= 4 && age<9){a= 25;}
+		if (age >=9 && age<14){a= 45;}
+		if (gender==true){
+			if (age >=14 && age<19){a= 75;}
+			if (age>=19){a=90;}
+		}
+		if (gender==false){
+			if (age >=14 && age<19){a= 65;}
+			if (age>=19){a=75;}
+		}
+		return a;
+	}
+	public double getVitDReq(){
+		int a = 0 ;
+		if (age >=0 && age<1){a= 400;}
+		if (age >=1 && age<71){a=600;}
+		if (age>=71){a=800;}
+		return a;
+	}
+	
+	public double getVitEReq(){
+		double a = 0;
+		if (age<.5){ a=  4;}
+		if (age >= .5 && age<1){a= 5;}
+		if (age >= 1 && age<4){a= 6;}
+		if (age >= 4 && age<9){a= 7;}
+		if (age >=9 && age<14){a= 11;}
+		if(age>=14 && age<19){a=15;}
+		if(age>=19){a=15;}
+		return a;
+	}
+	public double getZincReq(){
+		double a = 0;
+		if (age<.5){ a=  2;}
+		if (age >= .5 && age<1){a= 3;}
+		if (age >= 1 && age<4){a= 3;}
+		if (age >= 4 && age<9){a= 5;}
+		if (age >=9 && age<14){a= 8;}
+		if (gender==true){
+			if (age >=14 && age<19){a= 11;}
+			if (age>=19){a=11;}
+		}
+		if (gender == false){
+			if (age >=14 && age<19){a= 9;}
+			if (age>=19){a=8;}
+		}
+		return a;
+	}
+	
+	
+
+}
+
+

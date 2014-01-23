@@ -1,0 +1,2 @@
+rails generate model serving usdaId:integer name:string group:string kcal:float protein:float carb:float fat:float vitA:float vitB1:float vitB2:float vitB3:float vitB5:float vitB6:float vitB6:float vitB9:float vitB12:float vitC:float vitD:float vitE:float fiber:float potassium:float calcium:float phosphorus:float magnesium:float manganese:float iron:float sodium:float copper:float zinc:float selenium:float fluoride:float
+rake db:seed --trace

@@ -1,0 +1,388 @@
+package Package;
+
+import java.awt.BorderLayout;
+import java.awt.EventQueue;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
+import java.util.ArrayList;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+import javax.swing.DefaultListModel;
+import javax.swing.JScrollPane;
+import javax.swing.JLayeredPane;
+import javax.swing.JList;
+import javax.swing.JButton;
+import javax.swing.JTextField;
+import javax.swing.border.BevelBorder;
+import java.awt.Color;
+import java.awt.GridLayout;
+import java.io.IOException;
+
+import javax.swing.JLabel;
+
+public class GUI extends JFrame {
+	getHTML gethtml = new getHTML();
+	JPanel contentPane = new JPanel();
+	ArrayList<String> nameList;
+	
+	
+
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		//getHTML gfh = new getHTML();
+		//User u = new User("u",0,0,0, true,0);
+		//Serving s = new Serving("s",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+		//PlotMaker pm = new PlotMaker(s,u);
+		//pm.makeMineralPlot();
+		//LoadImageApp lia = new LoadImageApp("/home/gary/workspace/output_file_name.png");
+		//lia.loadImage("test frame");
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					GUI frame = new GUI();
+					frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public GUI() {
+		final ArrayList<Serving> servings = gethtml.generateServings();
+		nameList = gethtml.getNames(servings);
+		final JList list_1;
+		
+		
+			
+		
+				
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 1365, 813);
+		
+		JPanel panel = new JPanel();
+		getContentPane().add(panel, BorderLayout.CENTER);
+		panel.setLayout(new GridLayout(2, 5, 0, 0));
+		
+		JScrollPane scrollPane = new JScrollPane();
+		panel.add(scrollPane);
+		//contentPane = new JPanel();
+		//contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		
+		final JList list = new JList();
+		scrollPane.setViewportView(list);
+		Object[] names   = nameList.toArray();
+		list.setListData(names);
+		
+		
+		
+		JPanel smallPanel1 = new JPanel();
+		panel.add(smallPanel1, BorderLayout.CENTER);
+		smallPanel1.setLayout(new GridLayout(1,2,0,0));
+		
+		final DefaultListModel servingAteListModel = new DefaultListModel();
+		final DefaultListModel servingNutrientsModel = new DefaultListModel();
+		final DefaultListModel dayReqModel = new DefaultListModel();
+		final DefaultListModel userModel = new DefaultListModel();
+		
+		final JList servingAteList = new JList(servingAteListModel);
+		servingAteList.setForeground(Color.BLACK);
+		servingAteList.setBorder(new BevelBorder(BevelBorder.LOWERED, null, null, null, null));
+		//panel.add(servingAteList, BorderLayout.CENTER);
+		smallPanel1.add(servingAteList);
+		
+		JButton sumButton = new JButton("Calculate Total Nutrition Values");
+		smallPanel1.add(sumButton);
+		sumButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				servingNutrientsModel.clear();
+				ArrayList<Serving> sumServingsList = new ArrayList<Serving>();
+				for(int i = 0; i< servingAteListModel.size(); i++){
+					String servingName = (String) servingAteListModel.get(i);
+					Serving servingAte = getServing(servings, servingName);
+					sumServingsList.add(servingAte);
+				}
+				Serving sumServing= new Serving("",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+				for (int i = 0; i<sumServingsList.size(); i++){
+					sumServing = sumServing.addServings(sumServingsList.get(i));
+				}
+				ArrayList<String> nutrientsAL = getNutrients(sumServing);
+				servingNutrientsModel.clear();
+				for (int i = 0; i<nutrientsAL.size(); i++){
+					servingNutrientsModel.addElement(nutrientsAL.get(i));
+				}
+				
+				
+				
+				
+			}
+		});
+		
+		
+		final JList servingNutrients = new JList(servingNutrientsModel);
+		panel.add(servingNutrients);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		JPanel dayPanel = new JPanel();
+		panel.add(dayPanel, BorderLayout.CENTER);
+		dayPanel.setLayout(new GridLayout(1,2,0,0));
+		
+		JPanel buttonPanel = new JPanel();
+		dayPanel.add(buttonPanel, BorderLayout.CENTER);
+		buttonPanel.setLayout(new GridLayout(2,1,0,0));
+		
+		JButton dayButton = new JButton("Get Daily Requirements");
+		buttonPanel.add(dayButton);
+		
+		JList userStats = new JList(userModel);
+		buttonPanel.add(userStats);
+		
+		
+		
+		JPanel inputPanel = new JPanel();
+		dayPanel.add(inputPanel, BorderLayout.CENTER);
+		inputPanel.setLayout(new GridLayout(6,3,0,0));
+		
+		JLabel nameLabel = new JLabel("Name");
+		inputPanel.add(nameLabel);
+		
+		final JTextField nameField = new JTextField();
+		inputPanel.add(nameField);
+		
+		JLabel ageLabel =new JLabel("Age");
+		inputPanel.add(ageLabel);
+		
+		final JTextField ageField = new JTextField();
+		inputPanel.add(ageField);
+		
+		JLabel weightLabel = new JLabel("Weight (lbs.)");
+		inputPanel.add(weightLabel);
+		
+		final JTextField weightField = new JTextField();
+		inputPanel.add(weightField);
+		
+		JLabel heightLabel = new JLabel("Height (in.)");
+		inputPanel.add(heightLabel);
+		
+		final JTextField heightField = new JTextField();
+		inputPanel.add(heightField);
+		
+		JLabel genderLabel = new JLabel("Gender (m/f)");
+		inputPanel.add(genderLabel);
+		
+		final JTextField genderField = new JTextField();
+		inputPanel.add(genderField);
+		
+		JLabel exerciseLabel = new JLabel("Exercise (5=Intense, 1=Sedentary)");
+		inputPanel.add(exerciseLabel);
+		
+		final JTextField exerciseField = new JTextField();
+		inputPanel.add(exerciseField);
+		
+		
+		JPanel plotPanel = new JPanel();
+		panel.add(plotPanel, BorderLayout.CENTER);
+		plotPanel.setLayout(new GridLayout(1,2,0,0));
+		
+		final JList dayReqList = new JList(dayReqModel);
+		plotPanel.add(dayReqList);
+		
+		JPanel plotButtonPanel = new JPanel();
+		plotPanel.add(plotButtonPanel, BorderLayout.CENTER);
+		plotButtonPanel.setLayout(new GridLayout(6,1,0,0));
+		
+		JButton mpButton = new JButton("Mineral Plot");
+		plotButtonPanel.add(mpButton);
+		mpButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				User u;
+				boolean g = true;
+				if (genderField.getText().equals("m")){g=true;}
+				if (genderField.getText().equals("f")){g=false;}
+				u = new User(nameField.getText(), Double.parseDouble(weightField.getText()), Double.parseDouble(heightField.getText()),
+						Double.parseDouble(ageField.getText()), g, Integer.parseInt( exerciseField.getText() ));
+				
+				ArrayList<Serving> sumServingsList = new ArrayList<Serving>();
+				for(int i = 0; i< servingAteListModel.size(); i++){
+					String servingName = (String) servingAteListModel.get(i);
+					Serving servingAte = getServing(servings, servingName);
+					sumServingsList.add(servingAte);
+				}
+				Serving sumServing= new Serving("",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+				for (int i = 0; i<sumServingsList.size(); i++){
+					sumServing = sumServing.addServings(sumServingsList.get(i));
+				}
+				
+				
+				PlotMaker pm = new PlotMaker(sumServing,u);
+				try {
+					pm.makeMineralPlot();
+				} catch (IOException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+				
+				JFrame f = new JFrame("Mineral Plot");
+	             
+		        f.addWindowListener(new WindowAdapter(){
+		                public void windowClosing(WindowEvent e) {
+		                    //System.exit(0);
+		                }
+		            });
+		 
+		        f.add(new LoadImageApp("/home/gary/workspace/output_file_name.png"));
+		        f.pack();
+		        f.setVisible(true);
+			}
+		});
+	
+		
+		
+		
+		
+		dayButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				userModel.clear();
+				dayReqModel.clear();
+				boolean g = true;
+				if (genderField.getText().equals("m")){g=true;}
+				if (genderField.getText().equals("f")){g=false;}
+				User u = new User(nameField.getText(), Double.parseDouble(weightField.getText()), Double.parseDouble(heightField.getText()),
+						Double.parseDouble(ageField.getText()), g, Integer.parseInt( exerciseField.getText() ));
+				
+				
+				userModel.addElement(nameField.getText());
+				userModel.addElement(ageField.getText()+" years old");
+				userModel.addElement(weightField.getText()+" lbs.");
+				userModel.addElement(heightField.getText()+" in.");
+				if (genderField.getText().equals("m")){userModel.addElement("Male");}
+				if (genderField.getText().equals("f")){userModel.addElement("Female");}
+				
+				dayReqModel.addElement("BMR = "+ u.getBMR()+" Calories");
+				dayReqModel.addElement(u.getProteinReq()+" g Protein");
+				dayReqModel.addElement(u.getFatReq()+" g Fat");
+				dayReqModel.addElement(u.getCarbReq()+" Carbs");
+				dayReqModel.addElement(u.getFiberReq()+" g Fiber");
+				dayReqModel.addElement(u.getVitAReq()+" IU Vitamin A");
+				dayReqModel.addElement(u.getVitBReq()+" mg Vitamin B");
+				dayReqModel.addElement(u.getVitCReq()+" mg Vitamin C");
+				dayReqModel.addElement(u.getVitDReq()+" IU Vitamin D");
+				dayReqModel.addElement(u.getVitEReq()+" mg Vitamin E");
+				dayReqModel.addElement(u.getCalciumReq()+" mg Calcium");
+				dayReqModel.addElement(u.getCopperReq()+" mg Copper");
+				dayReqModel.addElement(u.getIronReq()+" mg Iron");
+				dayReqModel.addElement(u.getMagnesiumReq()+" mg Magnesium");
+				dayReqModel.addElement(u.getManganeseReq()+" mg Manganese");
+				dayReqModel.addElement(u.getPhosphorusReq()+" mg Phosphorus");
+				dayReqModel.addElement(u.getPotassiumReq()+" mg Potassium");
+				dayReqModel.addElement(u.getSodiumReq()+" mg Sodium");
+				dayReqModel.addElement(u.getZincReq()+" mg Zinc");
+				
+				
+				
+				
+			}
+		});
+		
+		list.addMouseListener(new MouseAdapter() {
+			@Override
+			public void mouseClicked(MouseEvent arg0) {
+				
+				String selection = (String) list.getSelectedValue();
+				Serving servingAte = getServing(servings, selection);
+				servingAteListModel.addElement(servingAte.getName());
+				
+				ArrayList<String> nutrientsAL = getNutrients(servingAte);
+				servingNutrientsModel.clear();
+				for (int i = 0; i<nutrientsAL.size(); i++){
+					servingNutrientsModel.addElement(nutrientsAL.get(i));
+				}
+				
+				
+				
+				
+			}
+		});	
+		
+		servingAteList.addMouseListener(new MouseAdapter() {
+			@Override
+			public void mouseClicked(MouseEvent arg0) {
+				
+				String selection = (String) servingAteList.getSelectedValue();
+				servingAteListModel.removeElement(selection);
+				
+				
+				
+			}
+		});	
+		
+		
+		
+
+		
+
+	}
+	public Serving getServing(ArrayList<Serving> servings, String name){
+		Serving s = new Serving("bad", 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+		for (int i = 0; i< servings.size(); i++){
+			if (servings.get(i).getName() == name){
+				s= servings.get(i);
+			}
+			
+				
+		}
+		return s;
+	}
+	
+	public ArrayList<String> getNutrients(Serving s){
+		ArrayList<String> al = new ArrayList<String>();
+		al.add(s.getName());
+		al.add(s.getCal()+" Calories");
+		al.add(s.getProtein()+" g Protein");
+		al.add(s.getFat()+" g Fat");
+		al.add(s.getCarb()+" Carbs");
+		al.add(s.getFiber()+" g Fiber");
+		al.add(s.getVitA()+" IU" +
+				" Vitamin A");
+		al.add(s.getVitB()+" mg Vitamin B");
+		al.add(s.getVitC()+" mg Vitamin C");
+		al.add(s.getVitD()+" IU Vitamin D");
+		al.add(s.getVitE()+" mg Vitamin E");
+		al.add(s.getCalcium()+" mg Calcium");
+		al.add(s.getCopper()+" mg Copper");
+		al.add(s.getIron()+" mg Iron");
+		al.add(s.getMagnesium()+" mg Magnesium");
+		al.add(s.getManganese()+" mg Manganese");
+		al.add(s.getPhosphorus()+" mg Phosphorus");
+		al.add(s.getPotassium()+" mg Potassium");
+		al.add(s.getSodium()+" mg Sodium");
+		al.add(s.getZinc()+" mg Zinc");
+		return al;
+	}
+	
+	
+	
+
+	}
+

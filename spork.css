@@ -1,0 +1,201 @@
+a {
+	text-decoration:none;
+	outline:0;
+	font-family: Verdana, Geneva, sans-serif;
+	line-height: 1.1em;
+	color:#9529ae;
+	text-decoration:underline;
+}
+
+h3 {
+	margin-top:10px;
+	position:relative;
+	font-size:24px;
+	font-weight:normal;
+	text-decoration:underline;
+	font-family: Verdana, Geneva, sans-serif;
+	margin-left:10px;
+	margin-bottom:5px;
+	
+}
+
+h5 {
+	margin-left:10px;
+	margin-top:5px;
+	position:relative;
+	font-size:14px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight:normal;
+}
+	
+
+.generalfont {
+	font-family: Verdana, Geneva, sans-serif;	
+	color:#9529ae;
+	font-weight:normal;
+}
+
+html {
+	height:100%;
+	width:100%;
+	overflow:hidden;
+}
+
+body {
+	/*background-color:#fff4e3;*/
+	background-image:url('retina_wood.png');
+	background-repeat:repeat;
+	height:95%;
+	font-size:100%; 
+	word-wrap:break-word;
+}
+
+#container {
+	position:relative;
+	width:800px;
+	height:620px;
+	margin-left:auto;
+	margin-right:auto;
+	/*border-style:dotted;
+	border-width:3px;
+	border-color:#337e1b;*/
+	overflow:hidden;
+	
+}
+
+.theme {
+	border-style: solid;
+	background-color:#bbe2ea;
+	border-width:2px;
+	border-color:#9529ae;
+	box-shadow:-18px 18px 15px rgba(70,70,70,.7);
+}
+
+.button {
+	text-align:center;
+	-webkit-transition: all .1s linear;
+	-moz-transition: all .1s linear;
+	transition: all .1s linear;
+}
+	
+.menubutton {
+	position:absolute;
+	width:100px;
+	height:100px;
+	border-radius:60px;
+	margin-top:-50px;
+	margin-left:-50px;
+	zoom: 1;
+}
+
+.xbutton {
+	background-image:url('xbuttonpic.png');
+	position:absolute;
+	width: 30px;
+	height: 30px;
+	left:300px;
+	top:-20px;
+	border-radius:20px;
+}
+
+#tryx {
+	left:680px;
+}
+
+#about {
+	top:175px;
+	left:183px;
+}
+#try {
+	top:65px;
+	left:314px;
+}
+#newuser {
+	top:65px;
+	left:486px;
+}
+#signin {
+	top:175px;
+	left:617px;
+}
+
+#introbackground {
+	position:absolute;
+	width:300px;
+	height:300px;
+	margin-left:-150px;
+	margin-top:-150px;
+	top:50%;
+	left:50%;
+	border-radius:160px;
+	box-shadow:-18px 18px 15px rgba(70,70,70,.7);
+	z-index:-100;
+}
+
+#sporklogo {
+	position:relative;
+	margin-top:90px;
+	margin-left:5px;
+}	
+
+#aboutdiv {
+	position:absolute;
+	width:320px;
+	height:440px;
+	top:750px;
+	left:400px;
+	border-radius:20px;
+}
+
+#trydiv {
+	position:absolute;
+	width:700px;
+	height:440px;
+	top:750px;
+	margin-left:50px;
+	/*margin-right:-50px;*/
+	border-radius:20px;
+}
+.scrollmenu {
+	margin:0px auto;
+	width:220px;
+}
+.fooddiv {
+	position:absolute;
+	word-wrap:breakword;
+	width:233px;
+	padding:5px;
+}
+#selectdiv {
+	top:0px;
+	left:0px;
+}
+.spread2evenly {
+	display: inline-block;
+	*display: inline; /* For IE7 */
+	zoom: 1; /* Trigger hasLayout */
+	width: 100%;
+	text-align: center;
+}
+#todaydiv {
+	top:0px;
+	left:233px;
+}
+#newuserdiv {
+	position:absolute;
+	width:320px;
+	height:440px;
+	top:750px;
+	left:400px;
+	border-radius:20px;
+} 
+
+#signindiv {
+	position:absolute;
+	width:320px;
+	height:200px;
+	top:750px;
+	left:400px;
+	border-radius:20px;
+}
+

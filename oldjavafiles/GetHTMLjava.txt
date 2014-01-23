@@ -1,0 +1,529 @@
+package Package;
+
+
+
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class getHTML{
+	String html;//private String HTML;;
+	
+	public getHTML(){
+		html = "";
+	}
+	
+	//@SuppressWarnings("resource")
+	public String readFile(File file){
+		int ch;
+		StringBuffer strB = new StringBuffer("");
+		FileInputStream fin = null;
+		try{
+			fin = new FileInputStream(file);
+			while ((ch = fin.read()) != -1){
+				strB.append((char) ch);
+			}
+			fin.close();
+		}
+		catch (Exception e){
+			System.out.println(e);
+		}
+		html = strB.toString();
+		return html;
+	}
+	
+	public ArrayList<String> segmentizeHTML(String html, String start, String end){
+		ArrayList<String> segments = new ArrayList<String>();
+		int a = html.indexOf(start);
+		String indexLeft = html.substring(a);
+		int b = indexLeft.indexOf("</tr>");
+		int c = a+b+1 ;
+		String segment1 = html.substring(a, c);
+		segments.add(segment1);
+		while ( c < html.indexOf(end)+100){
+			String availableHTML = html.substring(c);
+			a = c;
+			b = availableHTML.indexOf("</tr>");
+			int d = c + b + 1;
+			String segment = html.substring(a, d);
+			segments.add(segment);
+			c = d;
+		}
+		return segments;
+		
+	}
+	
+	public ArrayList<Serving> organizeData(ArrayList<String> segments){
+		ArrayList<Serving> servings = new ArrayList<Serving>(segments.size());
+		
+		for(int i=0; i < segments.size() ; i++){
+			String name = "bad message";
+			double cal=0; double protein=0; double carb=0; double fat=0; 
+			double vitA=0; double vitB=0; double vitC=0; double vitD=0;
+			double vitE=0; double fiber=0; double potassium=0; double calcium=0;
+			double phosphorus=0; double magnesium=0; double manganese=0; double iron=0;
+			double sodium=0; double copper=0; double zinc=0;
+			
+			String s = segments.get(i);
+			
+			
+			
+			if (s.contains("vitamina")){
+				int x = s.indexOf("vitamina");
+				String s1 = s.substring(x);
+				int pos1 = get1stNumPos(s1);
+				int pos2 = s1.substring(pos1).indexOf(" ") + pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				vitA = amt;
+			}
+			
+			if (s.contains("vitaminb")){
+				double totVitB = 0;
+				if(s.contains("(thiamine)</a> - ")){
+					int x = s.indexOf("(thiamine)</a> - ");
+					String s1 = s.substring(x);
+					int pos1 = get1stNumPos(s1);
+					int pos2 = s1.substring(pos1).indexOf(" ") + pos1;
+					String amountStr = s1.substring(pos1, pos2);
+					double amt = Double.parseDouble(amountStr);
+					totVitB = totVitB + amt;
+				}
+				if(s.contains("(riboflavin)</a> - ")){
+					int x = s.indexOf("(riboflavin)</a> - ");
+					String s1 = s.substring(x);
+					int pos1 = get1stNumPos(s1);
+					int pos2 = s1.substring(pos1).indexOf(" ") + pos1;
+					String amountStr = s1.substring(pos1, pos2);
+					double amt = Double.parseDouble(amountStr);
+					
+					totVitB = totVitB + amt;
+				}
+				if(s.contains("Vitamin B6</a> - ")){
+					int x = s.indexOf("Vitamin B6</a> - ")+13;
+					String s1 = s.substring(x);
+					int pos1 =get1stNumPos(s1);
+					int pos2 = s1.substring(pos1).indexOf(" ")+ pos1;
+					String amountStr = s1.substring(pos1, pos2);
+					double amt = Double.parseDouble(amountStr);
+					totVitB = totVitB + amt;
+				}
+				vitB = totVitB;
+			}
+			
+			if (s.contains("vitaminc")){
+				int x = s.indexOf("vitaminc");
+				String s1 = s.substring(x);
+				
+				int pos1 = get1stNumPos(s1);
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				vitC = amt;
+			}
+			
+			if (s.contains("vitamind")){
+				int x = s.indexOf("vitamind");
+				String s1 = s.substring(x);
+				
+				int pos1 = get1stNumPos(s1);
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				vitD = amt;
+			}
+			if (s.contains("vitamine")){
+				int x = s.indexOf("vitamine");
+				String s1 = s.substring(x);
+				
+				int pos1 = (get1stNumPos(s1));
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				vitE = amt;
+			}
+			if (s.contains("potassium")){
+				int x = s.indexOf("potassium");
+				String s1 = s.substring(x);
+				
+				int pos1 =(get1stNumPos(s1));
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				potassium = amt;
+			}
+			if (s.contains("phosphorus")){
+				int x = s.indexOf("phosphorus");
+				String s1 = s.substring(x);
+				
+				int pos1 = get1stNumPos(s1);
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				phosphorus = amt;
+			}
+			if (s.contains("calcium")){
+				int x = s.indexOf("calcium");
+				String s1 = s.substring(x);
+				
+				int pos1 = (get1stNumPos(s1));
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				calcium = amt;
+			}
+			
+			
+			if (s.contains("magnesium")){
+				int x = s.indexOf("magnesium");
+				String s1 = s.substring(x);
+				
+				int pos1 = (get1stNumPos(s1));
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				magnesium = amt;
+			}
+			if (s.contains("manganese")){
+				int x = s.indexOf("manganese");
+				String s1 = s.substring(x);
+				
+				int pos1 = (get1stNumPos(s1));
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				manganese = amt;
+			}
+			if (s.contains("iron")){
+				int x = s.indexOf("iron");
+				String s1 = s.substring(x);
+				
+				int pos1 =(get1stNumPos(s1));
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				iron = amt;
+			}
+			if (s.contains("sodium")){
+				int x = s.indexOf("sodium");
+				String s1 = s.substring(x);
+				
+				int pos1 =(get1stNumPos(s1));
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				sodium = amt;
+			}
+			if (s.contains("copper")){
+				int x = s.indexOf("copper");
+				String s1 = s.substring(x);
+				
+				int pos1 = get1stNumPos(s1);
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);
+				copper = amt;
+			}
+			if (s.contains("zinc")){
+				int x = s.indexOf("zinc");
+				String s1 = s.substring(x);
+				
+				int pos1 = (get1stNumPos(s1));
+				int pos2 = s1.substring(pos1).indexOf(" ")+pos1;
+				String amountStr = s1.substring(pos1, pos2);
+				double amt = Double.parseDouble(amountStr);				
+				zinc = amt;
+			}
+			
+			if (s.contains("calories")){
+				int x = s.indexOf("calories");
+				String s1 = s.substring(0, x);
+				
+				int pos2 = (getLastNumPos(s1));
+				int pos1 = s1.substring(0, pos2).lastIndexOf(" ");
+				String amountStr = s1.substring(pos1+1, pos2+1);
+				double amt = Double.parseDouble(amountStr);				
+				cal = amt;
+			}
+			if (s.contains("grams of fat")){
+				int x = s.indexOf("grams of fat");
+				String s1 = s.substring(0, x);
+				
+				int pos2 = getLastNumPos(s1);
+				int pos1 = s1.substring(0, pos2).lastIndexOf(" ");
+				String amountStr = s1.substring(pos1+1, pos2+1);
+				double amt = Double.parseDouble(amountStr);
+				fat = amt;
+			}
+			if (s.contains("fiber")){
+				int x = s.indexOf("fiber");
+				String s1 = s.substring(0, x);
+				
+				int pos2 = (getLastNumPos(s1));
+				int pos1 = s1.substring(0, pos2).lastIndexOf(" ");
+				String amountStr = s1.substring(pos1+1, pos2+1);
+				double amt = Double.parseDouble(amountStr);
+				fiber = amt;
+			}
+			if (s.contains("protein")){
+				int x = s.indexOf("protein");
+				String s1 = s.substring(0, x);
+				
+				int pos2 = (getLastNumPos(s1));
+				int pos1 = s1.substring(0, pos2).lastIndexOf(" ");
+				String amountStr = s1.substring(pos1+1, pos2+1);
+				double amt = Double.parseDouble(amountStr);
+				protein = amt;
+			}
+			
+			if (s.contains("cod")){name = "100 g cod";}
+			if (s.contains("apple with skin")){name = "1 Apple";}
+			if (s.contains("avocado")){name = "1 Avocado";}
+			if (s.contains("banana")){name = "1 Banana";}
+			if (s.contains("blackberries")){name = "1 cup blackberries";}
+			if (s.contains("blackcurrants")){name = "1 cup blackcurrants";}
+			if (s.contains("blueberries")){name = "1 cup blueberries";}
+			if (s.contains("boysenberries")){name = "1 cup boysenberries";}
+			if (s.contains("breadfruit")){name = "1 cup breadfruit";}
+			if (s.contains("cantaloupe")){name = "1 slice cantoloupe";}
+			if (s.contains("cherimoya")){name = "cherimoya";}
+			if (s.contains("cherries")){name = "1 cup cherries";}
+			if (s.contains("chinesepair")){name = "1 chinese pear";}
+			if (s.contains("cranberries")){name = "1 cup cranberries";}
+			if (s.contains("dates")){name = "1 cup dates";}
+			if (s.contains("fig")){name = "1 fig";}
+			if (s.contains("gooseberries")){name = "1 cup gooseberries";}
+			if (s.contains("grapefruit")){name = "1 cup grapefruit";}
+			if (s.contains("grapes")){name = "1 cup grapes";}
+			if (s.contains("guava")){name = "1 cup guava";}
+			if (s.contains("kiwi")){name = "1 kiwi";}
+			if (s.contains("lemon")){name = "1 lemon";}
+			if (s.contains("lime")){name = "1 lime";}
+			if (s.contains("loganberries")){name = "1 cup loganberries";}
+			if (s.contains("lychee")){name = "1 cup lychee";}
+			if (s.contains("mango")){name = "1 mango";}
+			if (s.contains("mulberries")){name = "1 cup mulberries";}
+			if (s.contains("nectarine")){name = "1 cup nectarine";}
+			if (s.contains("olives")){name = "1 tablespoon olives";}
+			if (s.contains("orange")){name = "1 orange";}
+			if (s.contains("papaya")){name = "1 cup papaya";}
+			if (s.contains("passionfruit")){name = "1 cup passionfruit";}
+			if (s.contains("peach")){name = "1 peach";}
+			if (s.contains("pear")){name = "1 pear";}
+			if (s.contains("persimmon")){name = "1 persimmon";}
+			if (s.contains("pineapple")){name = "1 cup pineapple";}
+			if (s.contains("plum")){name = "1 cup plum";}
+			if (s.contains("pomegranate")){name = "1 pomegranate";}
+			if (s.contains("pricklypear")){name = "1 cup prickly pear";}
+			if (s.contains("raisins")){name = "1.5 oz. raisins";}
+			if (s.contains("raspberries")){name = "1 cup raspberries";}
+			if (s.contains("starfruit")){name = "1 cup starfruit";}
+			if (s.contains("strawberries")){name = "1 cup strawberries";}
+			if (s.contains("tomato")){name = "1 tomato";}
+			if (s.contains("watermelon")){name = "1 slice watermelon";}
+			if (s.contains("lean, chuck beef, braised")){name = "6 oz. lean beef";}
+			if (s.contains("cheddarcheese")){name = "1 cup cheddar cheese";}
+			if (s.contains("cottagecheese")){name = "4 oz. cottage cheese (2%)";}
+			if (s.contains("creamcheese")){name = "3 oz. cream cheese";}
+			if (s.contains("chickenbreast")){name = "100 g chicken breast";}
+			if (s.contains("darkchicken")){name = "100 g dark chicken meat";}
+			if (s.contains("cowsmilk")){name = "1 cup whole milk";}
+			if (s.contains("halfandhalf")){name = "1 oz. half and half";}
+			if (s.contains("whippedcream")){name = "1 oz. heavy whipping cream";}
+			if (s.contains("eggs")){name = "2 eggs";}
+			if (s.contains("anchovies")){name = "1 oz. anchovies";}
+			if (s.contains("catfish")){name = "100 g catfish";}
+			if (s.contains("caviar")){name = "1 oz. caviar";}
+			if (s.contains("perch")){name = "100 g perch fish";}
+			if (s.contains("herring")){name = "100 g herring";}
+			if (s.contains("pollock")){name = "100 g Atlantic pollock";}
+			if (s.contains("salmon")){name = "100 g salmon";}
+			if (s.contains("sardines")){name = "100 g sardines";}
+			if (s.contains("tuna")){name = "100 g tuna";}
+			if (s.contains("goatmilk")){name = "1 cup goatmilk";}
+			if (s.contains("goatcheese")){name = "100 g goatcheese";}
+			if (s.contains("lamb")){name = "100 g lamb shoulder";}
+			if (s.contains("images/pork.jpg")){name = "100 g roasted pork";}
+			if (s.contains("soybeans")){name = "100 g roasted soybeans";}
+			if (s.contains("soymilk")){name = "1 cup soy milk";}
+			if (s.contains("turkeybreast")){name = "100 g roasted turkey breast";}
+			if (s.contains("turkeybacon")){name = "100 g turkey bacon";}
+			if (s.contains("veal")){name = "100 g veal";}
+			if (s.contains("yogurt")){name = "1 cup plain whole yogurt";}
+			if (s.contains("sourcream")){name = "100 g sourcream";}
+			if (s.contains("turkeyleg")){name = "100 g roasted turkey leg";}
+			if (s.contains("lowfatyogurt")){name = "1 cup lowfat plain yogurt";}
+			if (s.contains("turkeydog")){name = "1 turkey dog";}
+			if (s.contains("roast duck")){name = "100 g roasted duck";}
+			if (s.contains("hamburger")){name = "1 ground beef patty";}
+			if (s.contains("images/bacon.jpg")){name = "4 slices of bacon";}
+			if (s.contains("porksausage")){name = "4 small links of pork sausage";}
+			if (s.contains("beefsausage")){name = "100 g beef sausage";}
+			if (s.contains("beefjerky")){name = "1 oz. beef jerky";}
+			if (s.contains("beefhotdog")){name = "1 beef hotdog";}
+			if (s.contains("groundturkey")){name = "4 oz. ground turkey patty";}
+			if (s.contains("groundchicken")){name = "100 g ground chicken";}
+			if (s.contains("alfalfa")){name = "1 cup alfafa sprouts";}
+			if (s.contains("amaranth")){name = "1 cup amaranth leaves";}
+			if (s.contains("artichoke")){name = "1 artichoke";}
+			if (s.contains("asparagus")){name = "6 spears asparagus";}
+			if (s.contains("bamboo")){name = "1 cup bamboo shoots";}
+			if (s.contains("beet")){name = "1/2 cup beets";}
+			if (s.contains("bokchoy")){name = "1 cup bok choy";}
+			if (s.contains("images/broccoli.jpg")){name = "1/2 cup broccoli";}
+			if (s.contains("brusselssprouts")){name = "1 cup brussel sprouts";}
+			if (s.contains("butternutsquash")){name = "1 cup butternut squash";}
+			if (s.contains("images/cabbage.jpg")){name = "1/2 cup cabbage";}
+			if (s.contains("carrot")){name = "1/2 cup carrots";}
+			if (s.contains("cauliflower")){name = "1/2 cup cauliflower";}
+			if (s.contains("celeriac")){name = "1 cup celeriac";}
+			if (s.contains("celery")){name = "1 cup celery";}
+			if (s.contains("chinesebroccoli")){name = "1 cup chinese broccoli";}
+			if (s.contains("chinesecabbage")){name = "1 cup chinese cabbage";}
+			if (s.contains("corn")){name = "1 ear corn";}
+			if (s.contains("cucumber")){name = "1/2 a cucumber";}
+			if (s.contains("daikonradish")){name = "1 cup daikon radish";}
+			if (s.contains("eggplant")){name = "1 cup eggplant";}
+			if (s.contains("fennel")){name = "1 cup fennel";}
+			if (s.contains("frenchbean")){name = "1 cup french beans";}
+			if (s.contains("greenpepper")){name = "1 green pepper";}
+			if (s.contains("jicama")){name = "100 g jicama";}
+			if (s.contains("kale")){name = "1 cup kale";}
+			if (s.contains("leek")){name = "1 leek";}
+			if (s.contains("lima beans")){name = "1 cup lima beans";}
+			if (s.contains("mushroom")){name = "1/2 cup mushrooms";}
+			if (s.contains("okra")){name = "1 cup okra";}
+			if (s.contains("onion")){name = "1 small onion";}
+			if (s.contains("parsnip")){name = "1 cup pasnip";}
+			if (s.contains("peas")){name = "1 cup peas";}
+			if (s.contains("images/potato.jpg")){name = "1 baked potato";}
+			if (s.contains("pumpkin")){name = "1 cup pumpkin";}
+			if (s.contains("images/radish.jpg")){name = "1/2 cup radishes";}
+			if (s.contains("rapini")){name = "1 cup rapini";}
+			if (s.contains("spinach")){name = "1 cup spinach";}
+			if (s.contains("seaweed")){name = "1 cup seaweed";}
+			if (s.contains("spaghettisquash")){name = "1 cup spaghettisquash";}
+			if (s.contains("images/zucchini.jpg")){name = "1 cup zucchini";}
+			if (s.contains("squashwin")){name = "1 cup winter squash";}
+			if (s.contains("sweetpotato")){name = "1 sweet potato";}
+			if (s.contains("swisschard")){name = "1 cup swiss chard";}
+			if (s.contains("taro")){name = "1 cup taro";}
+			if (s.contains("turnip")){name = "1 cup turnips";}
+			if (s.contains("yellowsquash")){name = "1 cup yellow squash";}
+			
+			
+			servings.add(new Serving(name, cal, protein, carb, fat, vitA, vitB, vitC, vitD, vitE, fiber,
+					potassium, calcium, phosphorus, magnesium, manganese, iron, sodium, copper, zinc));
+			//System.out.println(servings.get(i).getName());
+			
+		}
+		return servings;
+	}
+	
+	
+	
+	
+	public int get1stNumPos(String substr){
+		int lowest = 2000000;
+		if (substr.contains("0")){ lowest = substr.indexOf("0");}
+		if (substr.contains("1")    &&     substr.indexOf("1") < lowest){
+			lowest = substr.indexOf("1");}
+		if (substr.contains("2")    &&     substr.indexOf("2") < lowest){
+			lowest = substr.indexOf("2");}
+		if (substr.contains("3")    &&     substr.indexOf("3") < lowest){
+			lowest = substr.indexOf("3");}
+		if (substr.contains("8")    &&     substr.indexOf("8") < lowest){
+			lowest = substr.indexOf("8");}
+		if (substr.contains("4")    &&     substr.indexOf("4") < lowest){
+			lowest = substr.indexOf("4");}
+		if (substr.contains("5")    &&     substr.indexOf("5") < lowest){
+			lowest = substr.indexOf("5");}
+		if (substr.contains("6")    &&     substr.indexOf("6") < lowest){
+			lowest = substr.indexOf("6");}
+		if (substr.contains("7")    &&     substr.indexOf("7") < lowest){
+			lowest = substr.indexOf("7");}
+		if (substr.contains("9")    &&     substr.indexOf("9") < lowest){
+			lowest = substr.indexOf("9");}
+	
+		return lowest;	
+	}
+	public int getLastNumPos(String substr){
+		int lowest = 0;
+		if (substr.contains("0")){ lowest = substr.lastIndexOf("0");}
+		if (substr.contains("1")    &&     substr.lastIndexOf("1") > lowest){
+			lowest = substr.lastIndexOf("1");}
+		if (substr.contains("2")    &&     substr.lastIndexOf("2") > lowest){
+			lowest = substr.lastIndexOf("2");}
+		if (substr.contains("3")    &&     substr.lastIndexOf("3") > lowest){
+			lowest = substr.lastIndexOf("3");}
+		if (substr.contains("8")    &&     substr.lastIndexOf("8") > lowest){
+			lowest = substr.lastIndexOf("8");}
+		if (substr.contains("4")    &&     substr.lastIndexOf("4") > lowest){
+			lowest = substr.lastIndexOf("4");}
+		if (substr.contains("5")    &&     substr.lastIndexOf("5") > lowest){
+			lowest = substr.lastIndexOf("5");}
+		if (substr.contains("6")    &&     substr.lastIndexOf("6") > lowest){
+			lowest = substr.lastIndexOf("6");}
+		if (substr.contains("7")    &&     substr.lastIndexOf("7") > lowest){
+			lowest = substr.lastIndexOf("7");}
+		if (substr.contains("9")    &&     substr.lastIndexOf("9") > lowest){
+			lowest = substr.lastIndexOf("9");}
+	
+		return lowest;	
+	}
+	
+	
+	public ArrayList<Serving> generateServings(){
+		getHTML gfh = new getHTML();
+		
+		String s1 = gfh.readFile(new File ("/home/gary/workspace/fruitHTML.txt"));
+		ArrayList<String> al1 = gfh.segmentizeHTML(s1,"apple","watermelon");
+		ArrayList<Serving> fruits = gfh.organizeData(al1);
+		
+		String s2 = gfh.readFile(new File ("/home/gary/workspace/proteinHTML.txt"));
+		ArrayList<String> al2 = gfh.segmentizeHTML(s2,"beef","groundchicken");
+		ArrayList<Serving> proteins = gfh.organizeData(al2);
+		
+		String s3 = gfh.readFile(new File ("/home/gary/workspace/vegetableHTML.txt"));
+		ArrayList<String> al3 = gfh.segmentizeHTML(s3, "alfalfa", "yellowsquash");
+		ArrayList<Serving> vegetables = gfh.organizeData(al3);
+		
+		for (int i=0; i < proteins.size(); i++){
+			fruits.add(proteins.get(i));
+		}
+		for (int i = 0; i < vegetables.size(); i++){
+			fruits.add(vegetables.get(i));
+		}
+		return fruits;
+		
+	}
+	
+	
+	public ArrayList<String> getNames(ArrayList<Serving> servs){
+		ArrayList<String> names= new ArrayList();
+		for (int i=0; i<servs.size(); i++){
+			names.add(servs.get(i).getName());
+		}
+		return names;
+	}
+	
+
+	
+	
+		
+		
+		
+	
+	
+
+ 
+	
+	
+
+		
+	}
+	
+
+
+

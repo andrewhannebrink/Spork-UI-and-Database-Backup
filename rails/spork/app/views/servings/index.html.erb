@@ -1,0 +1,16 @@
+<h1>Listing Servings</h1>
+
+<table>
+	<tr>
+		<th></th>
+		<th></th>
+		<th></th>
+	</tr>
+
+<% @servings.each do |serving| %>
+	<tr>
+		<td><%= link_to 'Show', serving %></td>
+	</tr>
+<% end %>
+</table>
+
